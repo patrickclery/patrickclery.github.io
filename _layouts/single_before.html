@@ -1,0 +1,10 @@
+---
+layout: single
+---
+
+{% if page.youtube_id %}
+  {% include youtube.html id=page.youtube_id provider=youtube %}
+{% endif %}
+
+{{ content }}
+
