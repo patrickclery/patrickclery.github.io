@@ -60,11 +60,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-compose
 
 author:
   name   : "Patrick Clery"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The most lit shit"
+  bio    : "The most lit content in 2019 🔥"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -114,3 +115,33 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+timezone: Pacific/Vancouver
+lsi: true # Produce an index for related posts. Requires the classifier-reborn plugin.
+permalink: /:categories/:title:output_ext
+
+exclude:
+  - .idea
+
+### LINKINBIO
+
+collections:
+  linkinbio:
+    output: true
+
+jekyll_compose:
+  draft_default_front_matter:
+    category:
+    collection: linkinbio
+    description:
+    image:
+    published: false
+    sitemap: false
+    tags:
+  post_default_front_matter:
+    category:
+    description:
+    image:
+    published: false
+    sitemap: false
+    tags:
