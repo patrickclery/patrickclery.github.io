@@ -1,5 +1,3 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Shared On Instagram"
+  - title: "Instagram Links"
     url: /linkinbio/
