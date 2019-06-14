@@ -4,7 +4,10 @@ date:   "2019-03-15 09:06"
 description: "For games, video and music"
 categories: []
 tags: [battlestation,lighting,sound,desk]
-published: false
+published: true
+layout: single
+header:
+  teaser: "/assets/images/battlestation/tv/at_ottoman_facing_tv/cool.jpg"
 
 gallery:
   - url: 
