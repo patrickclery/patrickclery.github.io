@@ -1,10 +1,10 @@
 # Jekyll _config.yml
-title: "@RealP"
-email: reyalplayer@gmail.com
+title: "@patrickclery"
+email: patrickclery@gmail.com
 description: >-
   Code for content creators.
-twitter_username: realp
-github_username: reyalplayer
+twitter_username: patrickclery
+github_username: patrickclery
 minimal_mistakes_skin: dark
 search: true
 
@@ -48,31 +48,31 @@ plugins:
   - jemoji
 
 author:
-  name   : "@RealP"
+  name   : "@patrickclery"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Code for content creators."
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/realp"
+      url: "https://instagram.com/patrickclery"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/realp"
+      url: "https://twitter.com/patrickclery"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/reyalplayer"
+      url: "https://github.com/patrickclery"
 
 footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/realp"
+      url: "https://instagram.com/patrickclery"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/realp"
+      url: "https://twitter.com/patrickclery"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/reyalplayer"
+      url: "https://github.com/patrickclery"
 
 defaults:
   # _posts
