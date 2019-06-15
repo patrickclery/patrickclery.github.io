@@ -117,7 +117,7 @@ collections:
 jekyll_compose:
   draft_default_front_matter:
     category:
-    collection: linkinbio
+    collection: posts
     description:
     image:
     published: false
