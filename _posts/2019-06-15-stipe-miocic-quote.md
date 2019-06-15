@@ -10,4 +10,4 @@ tags: [design,"creating content"]
 header:
   teaser: /assets/images/design/stipe-miocic-quote-800x800.png
 ---
-![Stipe Miocic winning the UFC heavyweight title](/assets/images/design/stipe-miocic-quote.png)
+![Stipe Miocic winning the UFC heavyweight title](/assets/images/design//assets/images/design/stipe-miocic-quote-800x800.png)
