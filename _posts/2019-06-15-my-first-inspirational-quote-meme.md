@@ -1,0 +1,14 @@
+---
+layout: single
+title: My First Inspirational Quote Design
+date: 2019-06-15 11:04 +0000
+category: "creating content"
+description:
+image: 
+published: true
+sitemap: false
+tags: [design,"creating content"]
+header:
+  teaser: /assets/images/design/stipe-miocic-quote.png
+---
+![Stipe Miocic winning the UFC heavyweight title](/assets/images/design/stipe-miocic-quote.png)
