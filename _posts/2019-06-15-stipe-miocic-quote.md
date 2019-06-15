@@ -2,7 +2,6 @@
 layout: single
 title: My First Inspirational Quote Design
 date: 2019-06-15 11:04 +0000
-category: "creating content"
 description:
 image: 
 published: true
