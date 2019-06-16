@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My First Inspirational Quote Design
+title: Stipe Miocic Tells What Motivated Him To Become Champ  
 date: 2019-06-15 11:04 +0000
 description:
 image: 
