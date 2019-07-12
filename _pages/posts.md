@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 author_profile: true
 title: Latest Posts Shared on Instagram
-layout: collection
 collection: posts
 classes: wide
+permalink: /posts
 entries_layout: grid
 ---

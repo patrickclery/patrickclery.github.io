@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Stipe Miocic Tells What Motivated Him To Become Champ  
+title: Stipe Miocic When He Won UFC Heavyweight Belt
 date: 2019-06-15 11:04 +0000
 description:
 image: 
 published: true
 sitemap: false
-tags: [design,"creating content"]
+tags: [design,graphics]
 header:
   teaser: /assets/images/design/stipe-miocic-quote-800x800-patrickclery.png
 ---
