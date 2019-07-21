@@ -3,40 +3,39 @@ permalink: /resume/
 title: Patrick Clery
 ---
 
-
-![wordcloud](../assets/images/resume/skillcloud.png){: height="400px" width="400px"}
-
 # Patrick Clery
-_**Ruby On Rails Developer**_
+_**Full-Stack Web Developer**_
 
-# Skills Summary
+# My Skills
 
-### Ruby On Rails
-Get web applications up & running in the shortest amount of time. 
-
-### HTML & CSS
-Clean & responsive designs that look great on desktop & mobile.
-
-### Project Management
-Organize & assign tasks into design sprints.
-
-### Operations & Setup
-Connect cloud services, deployment, key management, certificate signing, and general infrastructure needs. 
+### <i class="fa fa-train"></i> Ruby On Rails 5/5
+Get web applications up & running in the shortest time with _Ruby On Rails_.
 
 # Portfolio
-
-![Know your fish](../assets/images/resume/knowyourfish.png){: height="400px" width="400px"}
 ### [KnowYour.Fish](https://www.vericatch.com/products/knowyourfish/)
 
-_**Ruby On Rails + JS**_
+_**Ruby On Rails, PostgreSQL, JS**_
+![Know your fish](../assets/images/resume/knowyourfish.png){: height="400px" width="400px"}
 
 Designed specifically for the fishing industry to meet today’s needs of consumers, retailers, restaurants, distributors, and processors who require more information about seafood and where and how it was sourced.
 
-![Fisheries App](../assets/images/resume/trawl_horizontal_cropped.png){: height="400px" width="400px"}
 ### [Fisheries App](https://www.vericatch.com/products/fisheriesapp/)
+_**Ruby On Rails + PostgreSQL + JS**_
 
-_**Ruby On Rails + JS**_
+![Fisheries App](../assets/images/resume/trawl_horizontal_cropped.png){: height="400px" width="400px"}
 
-Electronic Reporting for Fisheries Management
+Electronic reporting and supply chain management for fisheries. The backend is a _Ruby On Rails_ application with a companion _Android_ client that fisherman used to submit reports. 
+
+### <i class="fab fa-js"></i> UI Design 4/5
+Intuitive designs that load fast on desktop & mobile.
+
+### <i class="fab fa-linux"></i> Technical Operations 4/5
+_Docker_, cloud services, and general infrastructure best practices. 
+
+### <i class="fab fa-github"></i> Project Management 3/5
+Get clarity on your _Github_ project's next actions.   
 
 
+
+
+![wordcloud](../assets/images/resume/skillcloud.png){: height="400px" width="400px"}

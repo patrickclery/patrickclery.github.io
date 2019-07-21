@@ -3,3 +3,7 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Resume"
+    url: /resume/
+  - title: "Freelancer"
+    url: /resume/
