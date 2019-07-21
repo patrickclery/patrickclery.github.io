@@ -1,3 +1,5 @@
 main:
-  - title: "Instagram Links"
-    url: /linkinbio/
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
