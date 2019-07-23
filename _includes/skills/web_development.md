@@ -1,5 +1,5 @@
 # <i class="fa fa-gem icon-rubyonrails"></i> Web Development
-_**Rapidly get web applications up & running with _Ruby on Rails_.**_
+_**Rapidly get web applications up & running with Ruby on Rails.**_
 
 - Inventory, orders, generating invoices 
 - Building a REST API for mobile clients
