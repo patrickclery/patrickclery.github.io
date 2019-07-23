@@ -4,7 +4,7 @@ email: patrick.clery@gmail.com
 description: >-
   The official site of Patrick Clery.
 github_username: patrickclery
-minimal_mistakes_skin: dark
+#minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -15,9 +15,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Pacific/Vancouver
-
-collections:
-  - portfolio
 
 include:
   - _pages
@@ -49,30 +46,24 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ruby Developer"
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/patrickclery"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/patrickclery"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/patrickclery"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/patrickclery"
 
 footer:
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/patrickclery"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/patrickclery"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/patrickclery"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/patrickclery"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/patrickclery"
