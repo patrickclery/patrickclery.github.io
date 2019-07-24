@@ -1,15 +1,15 @@
 # Jekyll _config.yml
-title: "@patrickclery"
+title: "Patrick Clery"
 email: patrick.clery@gmail.com
 description: >-
-  The official site of Patrick Clery.
+  Hi, I'm Patrick Clery.
 github_username: patrickclery
-#minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: dark
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -18,18 +18,6 @@ timezone: Pacific/Vancouver
 
 include:
   - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -41,10 +29,11 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
+github_username: patrickclery
 author:
-  name   : "@patrickclery"
+  name   : "Patrick Clery"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ruby Developer"
+  bio    : "Web Development + UI Design + Dev Ops + Project Management"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
