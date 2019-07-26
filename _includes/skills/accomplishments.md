@@ -1,8 +1,28 @@
 # <i class="fas fa-medal"></i> Hackathons & Other Work
 
-![Awards](/assets/images/resume/hackerrank.jpg){: .img-responsive .align-left width="256px"}
+![Awards](/assets/images/resume/hackerrank.jpg){: .img-responsive .align-right width="256px"}
 
-<i class="fab fa-hackerrank"></i> _Solved 1,000+ challenges on HackerRank.com and earned 100% completion in **Ruby, SQL, Algorithms, Data structures**._ 
+<i class="fab fa-hackerrank"></i> **Solved 200+ challenges on HackerRank.com** and earned 100% completion in multiple technologies._ 
 [[link]](https://www.hackerrank.com/patrickclery)
 
-<div style="clear: left;"></div>
+<div class="">
+    <div class="row">
+        <div class="col-md-6">
+            <ul class="fa-ul">
+                <li><i class="fa fa-li fa-gem"></i>Ruby</li>
+                <li><i class="fa fa-li fa-database"></i>SQL</li>
+                <li><i class="fas fa-li fa-sort-numeric-down"></i>Algorithms</li>
+                <li><i class="fa fa-li fa-atom"></i>Data structures</li>
+                <li><i class="fab fa-li fa-linux"></i>Linux shell</li>
+                <li><i class="fa fa-li fa-laptop-code"></i>Regular Expressions</li>
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <ul class="fa-ul">
+                <li><i class="fa fa-li fa-gem"></i>Ruby</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div style="clear: right;"></div>
