@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: Ruby on Rails Services
+title: Hire Me :)
 ---
 
 ***
@@ -11,3 +11,5 @@ title: Ruby on Rails Services
 {% include skills/dev_ops.md %}
 ***
 {% include skills/project_management.md %}
+***
+{% include skills/accomplishments.md %}

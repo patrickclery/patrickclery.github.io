@@ -1,5 +1,3 @@
 main:
-  - title: "Web Developer Services"
-    url: /services/
-  - title: "Portfolio"
-    url: "#portfolio"
+  - title: "Hire Me"
+    url: /hire-me/
