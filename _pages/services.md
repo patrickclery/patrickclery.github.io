@@ -10,4 +10,9 @@ permalink: /services/
 ***
 {% include skills/project_management.md %}
 ***
+{% include skills/portfolio.md %}
+***
 {% include skills/accomplishments.md %}
+***
+{% include skills/contact_me.md %}
+

@@ -6,11 +6,3 @@ _**Responsive designs that looks great on desktop and mobile.**_
   <li><i class="fab fa-li fa-css3-alt" aria-hidden="true"></i>CSS Grid</li>
   <li><i class="fab fa-li fa-sketch" aria-hidden="true"></i>Sketch</li>
 </ul>
-
-***
-![Know your fish](../assets/images/resume/knowyourfish.png){: .align-right width="400px"}
-
-
-<div style="clear: right;"></div>
-
-***
