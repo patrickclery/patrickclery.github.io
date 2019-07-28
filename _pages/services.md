@@ -1,9 +1,7 @@
 ---
 permalink: /services/
-title: Hire Me :)
 ---
 
-***
 {% include skills/web_development.md %}
 ***
 {% include skills/ui_design.md %}
