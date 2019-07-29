@@ -2,7 +2,8 @@
 
 ![Awards](/assets/images/resume/hackerrank.jpg){: .img-responsive .align-right width="400px"}
 
-<i class="fab fa-hackerrank"></i> **Completed 200+ challenges on HackerRank.com** [[hackerrank.com]](https://www.hackerrank.com/patrickclery){: target="_blank"}
+
+<i class="fab fa-hackerrank"></i> **Completed 200+ challenges on HackerRank.com** <a href="https://www.hackerrank.com/patrickclery" target="_blank"><i class="fa fa-external-link-alt"></i></a>
 
 <ul class="fa-ul">
     <li><i class="fa fa-li fa-gem"></i>Ruby</li>

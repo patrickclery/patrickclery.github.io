@@ -8,8 +8,6 @@ permalink: /services/
 ***
 {% include skills/dev_ops.md %}
 ***
-{% include skills/project_management.md %}
-***
 {% include skills/portfolio.md %}
 ***
 {% include skills/accomplishments.md %}

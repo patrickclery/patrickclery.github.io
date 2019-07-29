@@ -4,8 +4,6 @@
 
 ![KnowYour.Fish](../assets/images/resume/knowyourfish.png){: .align-right width="400px"}
 
-_Ruby on Rails + PostgreSQL + HTML/CSS_
-
 Collects data from commercial fishing trips using an Android app, and transforms it with _Ruby on Rails_ into a visual timeline of how a fish was sourced & sold.
  
 <ul class="fa-ul">
@@ -22,8 +20,6 @@ Collects data from commercial fishing trips using an Android app, and transforms
 # <i class="fa fa-briefcase"></i> Portfolio: Fisheries App <a href="https://vericatch.com/products/fisheriesapp"><i class="fa fa-external-link-alt"></i></a>
 
 ![Fisheries App](../assets/images/resume/trawl_horizontal_cropped.png){: .align-right width="400px"}
-
-_Ruby on Rails + PostgreSQL + HTML/CSS_ 
 
 Electronic reporting and supply chain management for fisheries. 
 
