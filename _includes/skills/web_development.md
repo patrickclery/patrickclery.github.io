@@ -1,6 +1,7 @@
 ![Ruby on Rails](/assets/images/resume/rubymine_macbookpro15_mockuphone.png){: .img-responsive .align-right width="400px"}
 
 # <i class="fa fa-gem"></i> Web Development
+_Rapidly prototype & deploy apps with Ruby on Rails_
 
 <ul class="fa-ul">
   <li><i class="fas fa-li fa-database" aria-hidden="true"></i>Custom Database Solutions with <strong>Ruby on Rails & PostgreSQL</strong></li>
@@ -11,3 +12,5 @@
 </ul>
 
 <div style="clear: right;"></div>
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/patrickclery/rubyonrails){: target="_blank"}
