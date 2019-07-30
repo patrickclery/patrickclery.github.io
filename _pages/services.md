@@ -1,7 +1,10 @@
 ---
 permalink: /services/
+layout: default
 ---
 
+{% include skills/intro.md %}
+***
 {% include skills/web_development.md %}
 ***
 {% include skills/ui_design.md %}

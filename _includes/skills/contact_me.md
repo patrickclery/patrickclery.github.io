@@ -2,4 +2,4 @@
 
 I'm always looking for new projects & challenges, and would love to hear about career opportunities.
 
- {% include skills/social_media_icons.html %}
+{% include skills/social_media_icons.html %}
