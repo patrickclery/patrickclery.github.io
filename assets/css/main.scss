@@ -13,8 +13,8 @@
 
 .skills {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 10px;
 }
 
 .item {
@@ -22,10 +22,10 @@
   padding: 15px;
 }
 
-#full-stack-development {
+#web-development-skills {
   text-align: center;
 }
 
-#back-end-programming {
-  //font-size: medium;
+#back-end-development {
+  //font-size: 1em;
 }

@@ -11,7 +11,7 @@ header:
 
 <div class="pagebreak"></div>
 
-# Full-Stack Development
+# Web Development Skills
 
 ---
 
@@ -20,7 +20,7 @@ header:
 {% include skills/web_development.md %}
 </div>
 <div class="item" markdown="1">
-{% include skills/ui_design.md %}
+{% include skills/ui_design.html %}
 </div>
 <div class="item" markdown="1">
 {% include skills/dev_ops.md %}
@@ -28,9 +28,8 @@ header:
 </div>
 
 ***
-{% include portfolio/knowyourfish.md %}
+{% include portfolio/knowyourfish.html %}
 
-***
 ***
 
 <div class="pagebreak"></div>
