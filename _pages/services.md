@@ -1,29 +1,19 @@
 ---
 permalink: /services/
 layout: splash
+classes: wide
+excerpt: Ruby on Rails + HTML/CSS + Linux + everything tech
+title: Patrick Clery
+header:
+  overlay_image: assets/images/sitting-at-desk.jpg
+  overlay_filter: 0.75
 ---
 
-<style type="text/css">
-@media print {
-  .pagebreak {page-break-before: always;}
-}
-
-.skills {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 20px;
-}
-
-.item {
-  background: #eee;
-  padding: 15px;
-}
-
-</style>
-
-{% include skills/intro.md %}
-***
 <div class="pagebreak"></div>
+
+# Full-Stack Development
+
+---
 
 <div class="skills">
 <div class="item" markdown="1">
@@ -38,13 +28,10 @@ layout: splash
 </div>
 
 ***
-<div class="pagebreak"></div>
-{% include skills/portfolio.md %}
+{% include portfolio/knowyourfish.md %}
 
 ***
-<div class="pagebreak"></div>
-{% include skills/accomplishments.md %}
-
 ***
+
 <div class="pagebreak"></div>
 {% include skills/contact_me.md %}
