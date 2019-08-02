@@ -13,18 +13,11 @@ header:
 
 # Web Development Skills
 
----
-
 <div class="skills">
-<div class="item" markdown="1">
-{% include skills/web_development.html %}
-</div>
-<div class="item" markdown="1">
-{% include skills/ui_design.html %}
-</div>
-<div class="item" markdown="1">
-{% include skills/dev_ops.md %}
-</div>
+{% assign skills = site.skills | sort: 'order' %}
+{% for skill in skills %}
+{% include skill.html skill=skill %}
+{% endfor %}
 </div>
 
 ***

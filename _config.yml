@@ -18,6 +18,9 @@ timezone: Pacific/Vancouver
 include:
   - _pages
 
+collections:
+  - skills
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-compose
