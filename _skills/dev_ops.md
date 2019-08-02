@@ -6,9 +6,9 @@ items:
   - icon: fab fa-linux
     text: "20+ years experience with **Linux/Unix**"
   - icon: fab fa-docker
-    text: Creating docker images with DockerFile & docker-compose
+    text: Custom docker images, DockerFile & docker-compose
   - icon: fas fa-gem
-    text: Automating builds, tests & services on Github. CircleCI, Sentry, CodeCov, CodeComplete
+    text: Integrating services with Github
   - icon: fa fa-key
-    text: Cryptographic Key Management (OpenSSH, Let's Encrypt)
+    text: "Key Management: OpenSSH, Let's Encrypt"
 ---
