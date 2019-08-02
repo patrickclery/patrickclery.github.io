@@ -17,7 +17,7 @@ header:
 
 <div class="skills">
 <div class="item" markdown="1">
-{% include skills/web_development.md %}
+{% include skills/web_development.html %}
 </div>
 <div class="item" markdown="1">
 {% include skills/ui_design.html %}
