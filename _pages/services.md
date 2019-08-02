@@ -2,16 +2,12 @@
 permalink: /services/
 layout: splash
 classes: wide
-excerpt: Ruby on Rails + HTML/CSS + Linux + everything tech
 title: Patrick Clery
+excerpt: Full-Stack Web Developer
 header:
   overlay_image: assets/images/sitting-at-desk.jpg
   overlay_filter: 0.75
 ---
-
-<div class="pagebreak"></div>
-
-# Web Development Skills
 
 <div class="skills">
 {% assign skills = site.skills | sort: 'order' %}
@@ -20,8 +16,15 @@ header:
 {% endfor %}
 </div>
 
+{% include stackshare-rubyonrails.html %}
+
 ***
-{% include portfolio/knowyourfish.html %}
+<div class="portfolio">
+{% assign portfolio = site.portfolio | sort: 'order' %}
+{% for project in portfolio %}
+{% include project.html project=project %}
+{% endfor %}
+</div>
 
 ***
 

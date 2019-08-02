@@ -8,5 +8,7 @@ items:
   - icon: fas fa-laptop-code
     text: I write code in _RubyMine_ <a href="https://www.jetbrains.com/ruby/" target="_blank"><i class="fa fa-external-link-alt"></i></a>, a commercial IDE designed for _Ruby on Rails_ developers
   - icon: fas fa-gem
-    text: I actively contribute & follow Ruby community news & technology 
+    text: I actively contribute & follow Ruby community news & technology
+  - icon: fas fa-sitemap
+    text: "See my full stack of technologies: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/patrickclery/rubyonrails){: target='_blank'}" 
 ---

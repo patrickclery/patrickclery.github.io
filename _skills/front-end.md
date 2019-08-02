@@ -1,10 +1,10 @@
 ---
-title: HTML/CSS Wizard
+title: HTML Wizard
 order: 2
 icon: fas fa-hat-wizard
 items:
   - icon: fas fa-mobile-alt
-    text: HTML5 & CSS3 for desktop & mobile
+    text: "**Responsive design** on desktop & mobile"
   - icon: fab fa-figma
     text: Digital design with **Figma** & **Canva**
   - icon: fa fa-font
