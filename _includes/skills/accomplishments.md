@@ -17,6 +17,7 @@
 <div style="clear: right;"></div>
 
 ***
+<div class="pagebreak"></div>
 
 <i class="fab fa-github"></i> **Contributed to multiple Ruby community projects in 2019.**  <a href="https://www.github.com/patrickclery" target="_blank"><i class="fa fa-external-link-alt"></i></a>
 

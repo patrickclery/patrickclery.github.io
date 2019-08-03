@@ -16,9 +16,13 @@ header:
 {% endfor %}
 </div>
 
-{% include stackshare-rubyonrails.html %}
+***
+
+See my full technology stack: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/patrickclery/rubyonrails){: target='_blank'}
 
 ***
+
+<div class="pagebreak"></div>
 <div class="portfolio">
 {% assign portfolio = site.portfolio | sort: 'order' %}
 {% for project in portfolio %}
@@ -29,4 +33,8 @@ header:
 ***
 
 <div class="pagebreak"></div>
+{% include skills/accomplishments.md %}
+
+***
+
 {% include skills/contact_me.md %}

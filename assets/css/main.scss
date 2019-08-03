@@ -13,19 +13,12 @@
 
 .skills {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-gap: 10px;
 }
 
 .item {
+  vertical-align: top;
   background: #eee;
-  padding: 15px;
-}
-
-#web-development-skills {
-  text-align: center;
-}
-
-#back-end-development {
-  //font-size: 1em;
+  padding: 10px;
 }

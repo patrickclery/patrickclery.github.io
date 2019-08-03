@@ -28,27 +28,25 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-github_username: patrickclery
+links: &links
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope"
+    url: "mailto:patrick.clery@gmail.com"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/patrickclery"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/patrickclery"
+
 author:
   name   : "Patrick Clery"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Web Developer"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/patrickclery"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/patrickclery"
+  links: *links
 
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/patrickclery"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/patrickclery"
+  links: *links
 
 defaults:
   # _posts
