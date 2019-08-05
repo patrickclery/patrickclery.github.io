@@ -17,8 +17,7 @@ header:
 </div>
 
 ***
-
-See my full technology stack: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/patrickclery/rubyonrails){: target='_blank'}
+{% include stackshare-rubyonrails.html %}
 
 ***
 
