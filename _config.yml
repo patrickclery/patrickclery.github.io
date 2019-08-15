@@ -37,7 +37,7 @@ links: &links
     url: "https://github.com/patrickclery"
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
-    url: "https://linkedin.com/patrickclery"
+    url: "https://linkedin.com/in/patrickclery"
 
 author:
   name   : "Patrick Clery"
