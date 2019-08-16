@@ -5,7 +5,7 @@
 
 <i class="fab fa-hackerrank"></i> **Completed 200+ challenges on HackerRank.com** <a href="https://www.hackerrank.com/patrickclery" target="_blank"><i class="fa fa-external-link-alt"></i></a>
 
-<ul class="fa-ul">
+<ul class="fa-ul">  
     <li><i class="fa fa-li fa-gem"></i>Ruby</li>
     <li><i class="fa fa-li fa-database"></i>SQL</li>
     <li><i class="fas fa-li fa-sort-numeric-down"></i>Algorithms</li>

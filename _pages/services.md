@@ -20,6 +20,11 @@ header:
 {% include stackshare-rubyonrails.html %}
 
 ***
+{% include vertical-timeline.html %}
+
+***
+
+***
 
 <div class="pagebreak"></div>
 <div class="portfolio">

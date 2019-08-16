@@ -17,5 +17,6 @@ keywords:
   - HTML5
   - CSS3
   - Sketch
+  - Sass
 ---
 
