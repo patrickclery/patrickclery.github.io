@@ -17,9 +17,7 @@ header:
 </div>
 
 ***
-{% include stackshare-rubyonrails.html %}
-
-***
+<div class="pagebreak"></div>
 {% include vertical-timeline.html %}
 
 ***

@@ -1,4 +1,4 @@
-# <i class="fas fa-medal"></i> Hackathons & Other Work
+# <i class="fas fa-medal"></i> Awards, Publications, Online Work
 
 ![Awards](/assets/images/resume/hackerrank.jpg){: .img-responsive .align-right width="400px"}
 
@@ -20,6 +20,8 @@
 <div class="pagebreak"></div>
 
 <i class="fab fa-github"></i> **Contributed to multiple Ruby community projects in 2019.**  <a href="https://www.github.com/patrickclery" target="_blank"><i class="fa fa-external-link-alt"></i></a>
+
+<i class="fas fa-pen-alt"></i> **My Development Stack (with Reviews) at StackShare.io** <a href="https://www.github.com/patrickclery" target="_blank"><i class="fa fa-external-link-alt"></i></a>
 
 {% include github_calendar.html %}
 
