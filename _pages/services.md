@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.75
 ---
 
-**Hiring? Here's my resume:** [link](https://drive.google.com/open?id=1lzjlbUIf6sDYcemglWH7U-B7xs6NqSOt).
+**Hiring? Here's my resume:** [link](https://drive.google.com/open?id=1HwYczf5QFv6F8pdkxvPHENOvYkdiVV_I).
 
 {% include skills/stack.md %}
 
