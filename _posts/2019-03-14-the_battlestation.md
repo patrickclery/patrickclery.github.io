@@ -6,68 +6,17 @@ comments: true
 categories: []
 tags: [battlestation,lighting,sound,desk]
 published: true
+layout: single
 header:
-  teaser: "/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-standing4.jpg"
+  teaser: "/assets/images/battlestation/desk/at_couch_facing_desk/2019-07-05-stand-working.gif"
+gallery:
+  - url: 
+    image_path: /assets/images/battlestation/desk/at_couch_facing_desk/2019-07-05-stand-working.gif
+  - url: 
+    image_path: /assets/images/battlestation/desk/at_couch_facing_desk/2019-08-05_stand-working_jersey.gif
 ---
-<ul id="light-slider">
-  <li data-thumb="/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-standing4.jpg" data-src="/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-standing4.jpg">
-    <img src="/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-standing4.jpg" />
-  </li>
-  <li data-thumb="/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-sitting.jpg" data-src="/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-sitting.jpg">
-    <img src="/assets/images/battlestation/desk/at_kitchen_facing_printer/cool-sitting.jpg" />
-  </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_couch_facing_desk/animated.gif" data-src="/assets/images/battlestation/desk/at_couch_facing_desk/animated.gif">
-        <img src="/assets/images/battlestation/desk/at_couch_facing_desk/animated.gif" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_kitchen_facing_printer/warm-sitting.jpg" data-src="/assets/images/battlestation/desk/at_kitchen_facing_printer/warm-sitting.jpg">
-        <img src="/assets/images/battlestation/desk/at_kitchen_facing_printer/warm-sitting.jpg" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_kitchen_facing_printer/warm-standing.jpg" data-src="/assets/images/battlestation/desk/at_kitchen_facing_printer/warm-standing.jpg">
-        <img src="/assets/images/battlestation/desk/at_kitchen_facing_printer/warm-standing.jpg" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_kitchen_facing_printer/daytime.jpg" data-src="/assets/images/battlestation/desk/at_kitchen_facing_printer/daytime.jpg">
-        <img src="/assets/images/battlestation/desk/at_kitchen_facing_printer/daytime.jpg" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_entrance_facing_printer/cool-standing2.jpg" data-src="/assets/images/battlestation/desk/at_entrance_facing_printer/cool-standing2.jpg">
-        <img src="/assets/images/battlestation/desk/at_entrance_facing_printer/cool-standing2.jpg" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_entrance_facing_printer/warm-standing2.jpg" data-src="/assets/images/battlestation/desk/at_entrance_facing_printer/warm-standing2.jpg">
-        <img src="/assets/images/battlestation/desk/at_entrance_facing_printer/warm-standing2.jpg" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_couch_facing_desk/cool.jpg" data-src="/assets/images/battlestation/desk/at_couch_facing_desk/cool.jpg">
-        <img src="/assets/images/battlestation/desk/at_couch_facing_desk/cool.jpg" />
-    </li>
-    <li data-thumb="/assets/images/battlestation/desk/at_couch_facing_desk/cool-sitting2.jpg" data-src="/assets/images/battlestation/desk/at_couch_facing_desk/cool-sitting2.jpg">
-        <img src="/assets/images/battlestation/desk/at_couch_facing_desk/cool-sitting2.jpg" />
-    </li>
-</ul>
 
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#light-slider').lightSlider({
-        item: 1,
-        mode: "slide",
-        useCSS: true,
- 
-        speed: 400, //ms'
-        auto: true,
-        loop: true,
-        slideEndAnimation: true,
-        pause: 3000,
- 
-        autoWidth: false,
-        adaptiveHeight: true,
-        vertical: true,
- 
-        pager: true,
-        gallery: true,
-        
-        thumbItem: 10,
-        thumbMargin: 5,
-        slideMargin: 10
-       });
-    });
-</script>
+{% include gallery layout='half' %}
 
 ## Lighting
 
