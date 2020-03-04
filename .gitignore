@@ -304,3 +304,4 @@ yarn-debug.log*
 !/storage/.keep
 
 /yarn.lock
+/package-lock.json
