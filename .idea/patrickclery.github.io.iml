@@ -5,6 +5,7 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/_site" />
     </content>
     <orderEntry type="jdk" jdkName="RVM: ruby-2.6.3 [patrickclery]" jdkType="RUBY_SDK" />
