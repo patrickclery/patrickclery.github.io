@@ -36,3 +36,4 @@ yarn-debug.log*
 .ruby-gemset
 /.idea/
 /dist/
+/build/
