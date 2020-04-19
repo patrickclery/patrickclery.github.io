@@ -30,6 +30,5 @@ module.exports = {
         ]
       }
     ]
-  },
-  plugins: [ new CopyWebpackPlugin([{from: './src/lib/legacyLib.js'}])]
+  }
 };
