@@ -1,8 +1,8 @@
 {
-  "name": "test-react-app",
+  "name": "patrickclery.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://patrickclery.github.io/patrickclery.github.io/",
+  "homepage": "https://patrickclery.com/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
