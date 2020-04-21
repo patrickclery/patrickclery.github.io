@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.cccec728.chunk.css",
-    "main.js": "/static/js/main.ef1d3d20.chunk.js",
-    "main.js.map": "/static/js/main.ef1d3d20.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.27ab6645.js",
-    "runtime-main.js.map": "/static/js/runtime-main.27ab6645.js.map",
+    "main.js": "/static/js/main.f69b4239.chunk.js",
+    "main.js.map": "/static/js/main.f69b4239.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86a86d0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86a86d0b.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e404699e914153681dead2bf574d6e1a.js": "/precache-manifest.e404699e914153681dead2bf574d6e1a.js",
+    "precache-manifest.2cbc1f3f3bc6a944cb03a978d9a504cd.js": "/precache-manifest.2cbc1f3f3bc6a944cb03a978d9a504cd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cccec728.chunk.css.map": "/static/css/main.cccec728.chunk.css.map",
     "static/media/App.scss": "/static/media/bio-photo.d06f40dd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27ab6645.js",
+    "static/js/runtime-main.86a86d0b.js",
     "static/css/main.cccec728.chunk.css",
-    "static/js/main.ef1d3d20.chunk.js"
+    "static/js/main.f69b4239.chunk.js"
   ]
 }
