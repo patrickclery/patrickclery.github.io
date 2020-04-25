@@ -1,0 +1,39 @@
+/log/*
+!/log/.keep
+/tmp/*
+!/tmp/.keep
+/coverage/
+!/coverage/.keep
+
+# RSpec
+/.rspec_status
+
+# IntelliJ
+/.idea/
+/.generators
+/.rakeTasks
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# Webpacker
+/public/packs
+/public/packs-test
+
+# JavaScript
+/.bundle
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+/.env
+
+# for a library or gem, you might want to ignore these files since the code is
+# intended to run in multiple environments; otherwise, check them in:
+# Gemfile.lock
+# .ruby-version
+.ruby-gemset
+/.idea/
+/dist/
+/build/
