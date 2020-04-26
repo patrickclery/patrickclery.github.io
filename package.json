@@ -18,7 +18,8 @@
     "popper.js": "^1.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "serve": "^11.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,7 +27,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "react-scripts build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b master -d build",
+    "preproduction": "react-scripts build",
+    "production": "yarn run serve -s build"
   },
   "eslintConfig": {
     "extends": "react-app"
