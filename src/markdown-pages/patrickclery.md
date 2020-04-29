@@ -9,7 +9,7 @@ single-page apps using **Ruby on Rails & React.JS**. Whether you're
 looking to start a new project, add features to an existing one, or add
 an experienced developer to your team -- *I can do it*.
 
-# PROFESSIONAL EXPERIENCE (FREELANCE)
+# PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 
 |                        | Skills Summary                |
 |:----------------------:|:------------------------------|
@@ -109,7 +109,7 @@ an experienced developer to your team -- *I can do it*.
 > Here's just a few projects I'm proud of.
 > (Click the live link to see them in action!)
 
-### :shopping_cart: "Amazon ASIN Lookup"
+### :shopping_cart: *Amazon ASIN Lookup*
 
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API   |
 |-------------:|:--------------------------------------------------------------------|
@@ -117,22 +117,22 @@ an experienced developer to your team -- *I can do it*.
 |   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)        |
 |      GitHub: | https://github.com/patrickclery/amazon-asin                         |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                         |
-|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
+|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-600.png) |
 
 ---
 
 ### :fish: KnowYour.Fish
 
-| Description: | Verified traceability for the seafood supply chain.    |
-|-------------:|:-------------------------------------------------------|
-|        Type: | Paid Work (Contributor)                                |
-|        Link: | [KnowYour.Fish](https://knowyour.fish/)                |
-|  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS               |
-|  Screenshot: | ![KnowYour.Fish](../images/portfolio/knowyourfish.png) |
+| Description: | Verified traceability for the seafood supply chain.        |
+|-------------:|:-----------------------------------------------------------|
+|        Type: | Paid Work (Contributor)                                    |
+|        Link: | [KnowYour.Fish](https://knowyour.fish/)                    |
+|  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS                   |
+|  Screenshot: | ![KnowYour.Fish](../images/portfolio/knowyourfish-600.png) |
 
 ---
 
-### :fish: KnowYour.Fish :rocket: *"SpaceX Flights"*
+### :fish: KnowYour.Fish :rocket: *SpaceX Flights*
 
 | Description: | Get information on any SpaceX flight in history!       |
 |-------------:|:-------------------------------------------------------|
@@ -141,7 +141,7 @@ an experienced developer to your team -- *I can do it*.
 |      GitHub: | https://github.com/patrickclery/spacex                 |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
 |   Project #2 | :rocket: *"SpaceX Flights"*                            |
-|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)      |
+|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-600.png)      |
 
 # HOW TO CONTACT ME
 
