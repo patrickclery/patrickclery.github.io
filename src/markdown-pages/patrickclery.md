@@ -111,13 +111,13 @@ an experienced developer to your team -- *I can do it*.
 
 ### :shopping_cart: *Amazon ASIN Lookup*
 
-| Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
-|-------------:|:-------------------------------------------------------------------------|
-|        Type: | Coding Challenge / For Fun                                               |
-|   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)             |
-|      GitHub: | [patrickclery/amazon-asin](https://github.com/patrickclery/amazon-asin)  |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
-|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
+| Description: | Search Amazon by Product Number (ASIN) without paying for the API                  |
+|-------------:|:-----------------------------------------------------------------------------------|
+|        Type: | Coding Challenge / For Fun                                                         |
+|   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)                       |
+|      GitHub: | [github.com/patrickclery/amazon-asin](https://github.com/patrickclery/amazon-asin) |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                                        |
+|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg)           |
 
 ---
 
@@ -126,7 +126,7 @@ an experienced developer to your team -- *I can do it*.
 | Description: | Verified traceability for the seafood supply chain.         |
 |-------------:|:------------------------------------------------------------|
 |        Type: | Paid Work (Contributor)                                     |
-|        Link: | [KnowYour.Fish](https://knowyour.fish/)                     |
+|        Link: | [https://KnowYour.Fish/](https://knowyour.fish/)            |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS                    |
 |  Screenshot: | ![KnowYour.Fish](../images/portfolio/knowyourfish-400.jpeg) |
 
@@ -134,21 +134,21 @@ an experienced developer to your team -- *I can do it*.
 
 ### :fish: KnowYour.Fish :rocket: *SpaceX Flights*
 
-| Description: | Get information on any SpaceX flight in history!              |
-|-------------:|:--------------------------------------------------------------|
-|        Type: | Coding Challenge / For Fun                                    |
-|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)        |
-|      GitHub: | [patrickclery/spacex](https://github.com/patrickclery/spacex) |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                   |
-|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg)        |
+| Description: | Get information on any SpaceX flight in history!                         |
+|-------------:|:-------------------------------------------------------------------------|
+|        Type: | Coding Challenge / For Fun                                               |
+|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)                   |
+|      GitHub: | [github.com/patrickclery/spacex](https://github.com/patrickclery/spacex) |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
+|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg)                   |
 
 # HOW TO CONTACT ME
 
-|    Contact Methods    |                                      |
-|:---------------------:|:-------------------------------------|
-|        :email:        | patrick.clery@gmail.com              |
-|        :phone:        | +1.778.990.9803                      |
-| :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
-|       :octocat:       | https://github.com/patrickclery      |
-|        :bird:         | https://twitter.com/patrickclery     |
+|    Contact Methods    |                                                                      |
+|:---------------------:|:---------------------------------------------------------------------|
+|        :email:        | patrick.clery@gmail.com                                              |
+|        :phone:        | +1.778.990.9803                                                      |
+| :busts_in_silhouette: | [linkedin.com/in/patrickclery](https://linkedin.com/in/patrickclery) |
+|       :octocat:       | [github.com/patrickclery](https://github.com/patrickclery)           |
+|        :bird:         | [@patrickclery](https://twitter.com/patrickclery)                    |
 
