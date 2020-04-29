@@ -104,10 +104,10 @@ an experienced developer to your team -- *I can do it*.
 - ***Delivered live presentations*** to development team when adding new
   features.
 
-# PORTFOLIO
+# EXAMPLES OF MY WORK
 
-> Here's a few projects I'm proud of. Each of them has a live demo (or
-> production site) that you can visit and checkout for yourself!
+> Here's just a few projects I'm proud of.
+> (Click the live link to see them in action!)
 
 ### :shopping_cart: "Amazon ASIN Lookup"
 
