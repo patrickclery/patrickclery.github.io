@@ -112,3 +112,4 @@ add an experienced developer to your team -- *I can do it*.
 | :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
 | :briefcase:           | https://patrickclery.com/            |
 | :octocat:             | https://github.com/patrickclery      |
+| :bird:                | https://twitter.com/patrickclery     |
