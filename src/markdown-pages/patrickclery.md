@@ -103,6 +103,22 @@ add an experienced developer to your team -- *I can do it*.
 - ***Delivered live presentations*** to development team when adding new
   features.
 
+# PORTFOLIO
+
+|   Project #1 |                                                                     |
+|-------------:|:--------------------------------------------------------------------|
+|        Name: | "Amazon Asin Checker"                                               |
+| Description: | Search Amazon by Product Number (ASIN) without paying for the API   |
+|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
+|   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)        |
+|      GitHub: | https://github.com/patrickclery/amazon-asin                         |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                         |
+
+
+### *"Amazon Asin Checker"*
+
+
+
 # HOW TO CONTACT ME
 
 | Contact Methods       |                                      |
