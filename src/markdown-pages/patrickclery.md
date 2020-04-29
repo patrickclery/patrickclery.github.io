@@ -17,6 +17,8 @@ Ruby on Rails Developer
 |       :basecamp:       | Agile Design Advocate         |
 |        :whale2:        | Docker Boat Captain           |
 
+<div style="page-break-after: always"></div>
+
 ### Freelance Web Development (2007 - Present)
 
 #### Web Application Development with Ruby on Rails
@@ -70,6 +72,8 @@ Ruby on Rails Developer
 - Follower of the business & software development practices promoted by
   ***Jason Fried, David Heinemeier Hansson, and Basecamp.com***.
 
+<div style="page-break-after: always"></div>
+
 ## PROFESSIONAL EXPERIENCE (ON TEAMS)
 
 ### Vericatch.com (On-Site - Vancouver, BC)
@@ -102,6 +106,8 @@ Ruby on Rails Developer
 - ***Delivered live presentations*** to development team when adding new
   features.
 
+<div style="page-break-after: always"></div>
+
 # EXAMPLES OF MY WORK
 
 > Here's just a few projects I'm proud of.
@@ -117,7 +123,7 @@ Ruby on Rails Developer
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
 |  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
 
----
+<div style="page-break-after: always"></div>
 
 ### :fish: KnowYour.Fish
 
@@ -128,7 +134,7 @@ Ruby on Rails Developer
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS                    |
 |  Screenshot: | ![KnowYour.Fish](../images/portfolio/knowyourfish-400.jpeg) |
 
----
+<div style="page-break-after: always"></div>
 
 ### :rocket: *SpaceX Flights*
 
@@ -139,6 +145,8 @@ Ruby on Rails Developer
 |      GitHub: | https://github.com/patrickclery/spacex                 |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
 |  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
+
+<div style="page-break-after: always"></div>
 
 # HOW TO CONTACT ME
 
