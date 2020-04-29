@@ -1,26 +1,20 @@
 PATRICK CLERY
 =============
 
-| Professional Summary           |
-|:-------------------------------|
-| :diamonds: Ruby on Rails Ninja |
-| :stars: PostgreSQL Wizard      |
-| :man_artist: React.js Artist   |
-
 I'm a freelance web developer of over twenty years who builds
 single-page apps using **Ruby on Rails & React.JS**. Whether you're
 looking to start a new project, add features to an existing one, or
 add an experienced developer to your team -- *I can do it*.
 
-| Contact   |                                      |
-|:----------|:-------------------------------------|
-| Email     | patrick.clery@gmail.com              |
-| Phone     | 778-990-9803                         |
-| LinkedIn  | https://linkedin.com/in/patrickclery |
-| GitHub    | https://github.com/patrickclery      |
-| Portfolio | https://patrickclery.com/            |
-
 # PROFESSIONAL EXPERIENCE (FREELANCE)
+
+| Skills Summary                                 |
+|:-----------------------------------------------|
+| :martial_arts_uniform: Ruby on Rails Ninja     |
+| :male_detective: PostgreSQL Database Detective |
+| :man_factory_worker:  React.js Engineer        |
+| :basecamp: Agile Design Advocat                |
+| :whale2: Docker Captain                        |
 
 ### Freelance Web Development (2007 - Present)
 
@@ -107,3 +101,11 @@ add an experienced developer to your team -- *I can do it*.
 - ***Delivered live presentations*** to development team when adding new
   features.
 
+
+| Contact   |                                      |
+|:----------|:-------------------------------------|
+| Email     | patrick.clery@gmail.com              |
+| Phone     | 778-990-9803                         |
+| LinkedIn  | https://linkedin.com/in/patrickclery |
+| GitHub    | https://github.com/patrickclery      |
+| Portfolio | https://patrickclery.com/            |
