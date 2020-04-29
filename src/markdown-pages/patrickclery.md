@@ -109,33 +109,39 @@ an experienced developer to your team -- *I can do it*.
 > Here's a few projects I'm proud of. Each of them has a live demo (or
 > production site) that you can visit and checkout for yourself!
 
-|        Title | :shopping_cart: "Amazon ASIN Lookup"                                |
-|-------------:|:--------------------------------------------------------------------|
+### :shopping_cart: "Amazon ASIN Lookup"
+
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API   |
+|-------------:|:--------------------------------------------------------------------|
 |        Type: | Coding Challenge / For Fun                                          |
-|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
 |   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)        |
 |      GitHub: | https://github.com/patrickclery/amazon-asin                         |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                         |
+|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
 
-|        Title | :rocket: *"SpaceX Flights"*                            |
+---
+
+### :fish: KnowYour.Fish
+
+| Description: | Verified traceability for the seafood supply chain.    |
 |-------------:|:-------------------------------------------------------|
+|        Type: | Paid Work (Contributor)                                |
+|        Link: | [KnowYour.Fish](https://knowyour.fish/)                |
+|  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS               |
+|  Screenshot: | ![KnowYour.Fish](../images/portfolio/knowyourfish.png) |
+
+---
+
+### :fish: KnowYour.Fish :rocket: *"SpaceX Flights"*
+
 | Description: | Get information on any SpaceX flight in history!       |
+|-------------:|:-------------------------------------------------------|
 |        Type: | Coding Challenge / For Fun                             |
-|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)      |
 |   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/) |
 |      GitHub: | https://github.com/patrickclery/spacex                 |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
 |   Project #2 | :rocket: *"SpaceX Flights"*                            |
-
-|        Title | :fish: KnowYour.Fish                                    |
-|-------------:|:--------------------------------------------------------|
-| Description: | Verified traceability for the seafood supply chain.     |
-|        Type: | Paid work                                               |
-|  Screenshot: | ![SpaceX Flights](../images/portfolio/knowyourfish.png) |
-|        Link: | [KnowYour.Fish](https://knowyour.fish/)                 |
-|      GitHub: | https://github.com/patrickclery/spacex                  |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker             |
+|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)      |
 
 # HOW TO CONTACT ME
 
