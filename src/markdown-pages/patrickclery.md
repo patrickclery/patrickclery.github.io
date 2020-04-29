@@ -112,7 +112,7 @@ Ruby on Rails Developer
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
 |-------------:|:-------------------------------------------------------------------------|
 |        Type: | Coding Challenge / For Fun                                               |
-|   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)             |
+|   Live Demo: | https://amazon-asin-checker.herokuapp.com/                               |
 |      GitHub: | https://github.com/patrickclery/amazon-asin                              |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
 |  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
@@ -135,7 +135,7 @@ Ruby on Rails Developer
 | Description: | Get information on any SpaceX flight in history!       |
 |-------------:|:-------------------------------------------------------|
 |        Type: | Coding Challenge / For Fun                             |
-|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/) |
+|   Live Demo: | https://spacexflights.herokuapp.com/                   |
 |      GitHub: | https://github.com/patrickclery/spacex                 |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
 |  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
