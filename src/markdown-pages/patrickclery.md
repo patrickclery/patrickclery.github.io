@@ -142,6 +142,8 @@ Ruby on Rails Developer
 
 # HOW TO CONTACT ME
 
+![Cat](../images/love-internet.jpg)
+
 |    Contact Methods    |                                      |
 |:---------------------:|:-------------------------------------|
 |        :email:        | patrick.clery@gmail.com              |
