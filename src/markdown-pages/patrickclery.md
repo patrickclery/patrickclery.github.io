@@ -142,7 +142,7 @@ an experienced developer to your team -- *I can do it*.
 |    Contact Methods    |                                      |
 |:---------------------:|:-------------------------------------|
 |        :email:        | patrick.clery@gmail.com              |
-|        :phone:        | 778-990-9803                         |
+|        :phone:        | +1.778.990.9803                      |
 | :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
 |       :octocat:       | https://github.com/patrickclery      |
 |        :bird:         | https://twitter.com/patrickclery     |
