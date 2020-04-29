@@ -8,13 +8,13 @@ add an experienced developer to your team -- *I can do it*.
 
 # PROFESSIONAL EXPERIENCE (FREELANCE)
 
-| Skills Summary                                 |
-|:-----------------------------------------------|
-| :martial_arts_uniform: Ruby on Rails Ninja     |
-| :male_detective: PostgreSQL Database Detective |
-| :man_factory_worker:  React.js Engineer        |
-| :basecamp: Agile Design Advocat                |
-| :whale2: Docker Captain                        |
+| Skills Summary                                     |
+|:---------------------------------------------------|
+| :martial_arts_uniform: Ruby on Rails Ninja         |
+| :male_detective: PostgreSQL Database Detective     |
+| :man_factory_worker:  React.js Experience Engineer |
+| :basecamp: Agile Design Advocate                   |
+| :whale2: Docker Boat Captain                       |
 
 ### Freelance Web Development (2007 - Present)
 
