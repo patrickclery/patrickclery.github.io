@@ -1,5 +1,7 @@
 PATRICK CLERY
 =============
+Ruby on Rails Developer
+-----------------------
 
 I'm a freelance web developer of over twenty years who builds
 single-page apps using **Ruby on Rails & React.JS**. Whether you're
