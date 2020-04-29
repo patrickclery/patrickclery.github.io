@@ -105,9 +105,8 @@ add an experienced developer to your team -- *I can do it*.
 
 # PORTFOLIO
 
-|   Project #1 |                                                                     |
+|   Project #1 | "Amazon ASIN Lookup"                                                |
 |-------------:|:--------------------------------------------------------------------|
-|        Name: | "Amazon Asin Checker"                                               |
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API   |
 |  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
 |   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)        |
