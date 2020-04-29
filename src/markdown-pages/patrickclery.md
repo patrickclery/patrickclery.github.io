@@ -1,22 +1,23 @@
 PATRICK CLERY
 =============
+
 Ruby on Rails Developer
 -----------------------
 
 I'm a freelance web developer of over twenty years who builds
 single-page apps using **Ruby on Rails & React.JS**. Whether you're
-looking to start a new project, add features to an existing one, or
-add an experienced developer to your team -- *I can do it*.
+looking to start a new project, add features to an existing one, or add
+an experienced developer to your team -- *I can do it*.
 
 # PROFESSIONAL EXPERIENCE (FREELANCE)
 
-|     Skills Summary     |                               |
+|                        | Skills Summary                |
 |:----------------------:|:------------------------------|
-| :martial_arts_uniform: |           Ruby on Rails Ninja |
+| :martial_arts_uniform: | Ruby on Rails Ninja           |
 |    :male_detective:    | PostgreSQL Database Detective |
-|  :man_factory_worker:  |  React.js Experience Engineer |
-|       :basecamp:       |         Agile Design Advocate |
-|        :whale2:        |           Docker Boat Captain |
+|  :man_factory_worker:  | React.js Experience Engineer  |
+|       :basecamp:       | Agile Design Advocate         |
+|        :whale2:        | Docker Boat Captain           |
 
 ### Freelance Web Development (2007 - Present)
 
@@ -105,33 +106,40 @@ add an experienced developer to your team -- *I can do it*.
 
 # PORTFOLIO
 
-|   Project #1 | :shopping_cart: "Amazon ASIN Lookup"                                               |
+> Here's a few projects I'm proud of. Each of them has a live demo (or
+> production site) that you can visit and checkout for yourself!
+
+|        Title | :shopping_cart: "Amazon ASIN Lookup"                                |
 |-------------:|:--------------------------------------------------------------------|
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API   |
+|        Type: | Coding Challenge / For Fun                                          |
 |  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
 |   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)        |
 |      GitHub: | https://github.com/patrickclery/amazon-asin                         |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                         |
 
+|        Title | :rocket: *"SpaceX Flights"*                            |
+|-------------:|:-------------------------------------------------------|
+| Description: | Get information on any SpaceX flight in history!       |
+|        Type: | Coding Challenge / For Fun                             |
+|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)      |
+|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/) |
+|      GitHub: | https://github.com/patrickclery/spacex                 |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
+|   Project #2 | :rocket: *"SpaceX Flights"*                            |
 
-|     Project #2 | :rocket: *"SpaceX Flights"*                              |
-|---------------:|:---------------------------------------------------------|
-|   Description: | Get information on any SpaceX flight in history!         |
-|    Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)        |
-|     Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)   |
-|        GitHub: | https://github.com/patrickclery/spacex                   |
-|    Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker              |
-|     Project #2 | :rocket: *"SpaceX Flights"*                              |
-| -------------: | :------------------------------------------------------- |
-|   Description: | Get information on any SpaceX flight in history!         |
-|    Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)        |
-|     Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)   |
-|        GitHub: | https://github.com/patrickclery/spacex                   |
-|    Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker              |
+|        Title | :fish: KnowYour.Fish                                    |
+|-------------:|:--------------------------------------------------------|
+| Description: | Get information on any SpaceX flight in history!        |
+|        Type: | Paid work                                               |
+|  Screenshot: | ![SpaceX Flights](../images/portfolio/knowyourfish.png) |
+|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)  |
+|      GitHub: | https://github.com/patrickclery/spacex                  |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker             |
 
 # HOW TO CONTACT ME
 
-| Contact Methods       |                                      |
+|    Contact Methods    |                                      |
 |:---------------------:|:-------------------------------------|
 |        :email:        | patrick.clery@gmail.com              |
 |        :phone:        | 778-990-9803                         |
@@ -139,3 +147,4 @@ add an experienced developer to your team -- *I can do it*.
 |      :briefcase:      | https://patrickclery.com/            |
 |       :octocat:       | https://github.com/patrickclery      |
 |        :bird:         | https://twitter.com/patrickclery     |
+
