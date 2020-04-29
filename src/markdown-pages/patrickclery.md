@@ -1,11 +1,12 @@
-PATRICK CLERY
-=============
-Ruby on Rails Developer
------------------------
-> I'm a freelance web developer of over twenty years who builds
-> single-page apps using **Ruby on Rails & React.JS**. Whether you're
-> looking to start a new project, add features to an existing one, or add
-> an experienced developer to your team -- *I can do it*.
+PATRICK CLERY - Ruby on Rails Developer
+=======================================
+I'm a freelance web developer of over twenty years who builds
+single-page apps using **Ruby on Rails & React.JS**. Whether you're
+looking to start a new project, add features to an existing one, or add
+an experienced developer to your team -- *I can do it*.
+------------------------------------------------------------------------
+
+![Cat](../images/love-internet.jpg)
 
 |                        | Skills Summary                |
 |:----------------------:|:------------------------------|
@@ -15,9 +16,9 @@ Ruby on Rails Developer
 |       :basecamp:       | Agile Design Advocate         |
 |        :whale2:        | Docker Boat Captain           |
 
-# PROFESSIONAL EXPERIENCE (FREELANCE WORK)
-
 <div style="page-break-after: always"></div>
+
+# PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 
 ### Freelance Web Development (2007 - Present)
 
@@ -149,8 +150,6 @@ Ruby on Rails Developer
 <div style="page-break-after: always"></div>
 
 # HOW TO CONTACT ME
-
-![Cat](../images/love-internet.jpg)
 
 |    Contact Methods    |                                      |
 |:---------------------:|:-------------------------------------|
