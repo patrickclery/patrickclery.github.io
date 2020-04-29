@@ -1,13 +1,13 @@
 PATRICK CLERY
 =============
-
 Ruby on Rails Developer
 -----------------------
+> I'm a freelance web developer of over twenty years who builds
+> single-page apps using **Ruby on Rails & React.JS**. Whether you're
+> looking to start a new project, add features to an existing one, or add
+> an experienced developer to your team -- *I can do it*.
 
-I'm a freelance web developer of over twenty years who builds
-single-page apps using **Ruby on Rails & React.JS**. Whether you're
-looking to start a new project, add features to an existing one, or add
-an experienced developer to your team -- *I can do it*.
+![Cat](../images/love-internet.jpg)
 
 # PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 
@@ -106,8 +106,8 @@ an experienced developer to your team -- *I can do it*.
 
 # EXAMPLES OF MY WORK
 
-> Here's just a few projects I'm proud of.
-> (Click the live link to see them in action!)
+> Here's just a few projects I'm proud of. (Click the live link to see
+> them in action!)
 
 ### :shopping_cart: *Amazon ASIN Lookup*
 
