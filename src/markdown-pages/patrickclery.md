@@ -130,10 +130,10 @@ an experienced developer to your team -- *I can do it*.
 
 |        Title | :fish: KnowYour.Fish                                    |
 |-------------:|:--------------------------------------------------------|
-| Description: | Get information on any SpaceX flight in history!        |
+| Description: | Verified traceability for the seafood supply chain.     |
 |        Type: | Paid work                                               |
 |  Screenshot: | ![SpaceX Flights](../images/portfolio/knowyourfish.png) |
-|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)  |
+|        Link: | [KnowYour.Fish](https://knowyour.fish/)                 |
 |      GitHub: | https://github.com/patrickclery/spacex                  |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker             |
 
@@ -144,7 +144,6 @@ an experienced developer to your team -- *I can do it*.
 |        :email:        | patrick.clery@gmail.com              |
 |        :phone:        | 778-990-9803                         |
 | :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
-|      :briefcase:      | https://patrickclery.com/            |
 |       :octocat:       | https://github.com/patrickclery      |
 |        :bird:         | https://twitter.com/patrickclery     |
 
