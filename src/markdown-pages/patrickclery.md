@@ -1,14 +1,16 @@
 PATRICK CLERY
 =============
-- Ruby on Rails Ninja
-- PostgreSQL Wizard
-- React.js Engineer
------------------A
 
-> I'm a freelance web developer of over twenty years who builds
-> single-page apps using **Ruby on Rails & React.JS**. Whether you're
-> looking to start a new project, add features to an existing one, or
-> add an experienced developer to your team -- *I can do it*.
+| Professional Summary                        |
+|:--------------------------------------------|
+| :diamonds: Ruby on Rails Ninja              |
+| :stars: PostgreSQL Wizard                   |
+| :construction_worker_man: React.js Engineer |
+
+I'm a freelance web developer of over twenty years who builds
+single-page apps using **Ruby on Rails & React.JS**. Whether you're
+looking to start a new project, add features to an existing one, or
+add an experienced developer to your team -- *I can do it*.
 
 | Contact   |                                      |
 |:----------|:-------------------------------------|
