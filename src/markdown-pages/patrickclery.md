@@ -144,7 +144,7 @@ an experienced developer to your team -- *I can do it*.
 
 # HOW TO CONTACT ME
 
-|    Contact Methods    |                                                                      |
+|                       | Contact Methods                                                      |
 |:---------------------:|:---------------------------------------------------------------------|
 |        :email:        | patrick.clery@gmail.com                                              |
 |        :phone:        | +1.778.990.9803                                                      |
