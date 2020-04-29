@@ -1,11 +1,11 @@
 PATRICK CLERY
 =============
 
-| Professional Summary                        |
-|:--------------------------------------------|
-| :diamonds: Ruby on Rails Ninja              |
-| :stars: PostgreSQL Wizard                   |
-| :construction_worker_man: React.js Engineer |
+| Professional Summary           |
+|:-------------------------------|
+| :diamonds: Ruby on Rails Ninja |
+| :stars: PostgreSQL Wizard      |
+| :man_artist: React.js Artist   |
 
 I'm a freelance web developer of over twenty years who builds
 single-page apps using **Ruby on Rails & React.JS**. Whether you're
