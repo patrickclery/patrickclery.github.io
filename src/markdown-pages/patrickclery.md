@@ -103,6 +103,7 @@ add an experienced developer to your team -- *I can do it*.
 - ***Delivered live presentations*** to development team when adding new
   features.
 
+# CONTACT
 
 | Contact   |                                      |
 |:----------|:-------------------------------------|
