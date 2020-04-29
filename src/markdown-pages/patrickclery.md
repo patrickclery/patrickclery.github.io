@@ -115,7 +115,7 @@ an experienced developer to your team -- *I can do it*.
 |-------------:|:-------------------------------------------------------------------------|
 |        Type: | Coding Challenge / For Fun                                               |
 |   Live Demo: | [Open on Heroku](https://amazon-asin-checker.herokuapp.com/)             |
-|      GitHub: | https://github.com/patrickclery/amazon-asin                              |
+|      GitHub: | [patrickclery/amazon-asin](https://github.com/patrickclery/amazon-asin)  |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
 |  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
 
@@ -134,13 +134,13 @@ an experienced developer to your team -- *I can do it*.
 
 ### :fish: KnowYour.Fish :rocket: *SpaceX Flights*
 
-| Description: | Get information on any SpaceX flight in history!       |
-|-------------:|:-------------------------------------------------------|
-|        Type: | Coding Challenge / For Fun                             |
-|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/) |
-|      GitHub: | https://github.com/patrickclery/spacex                 |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
-|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
+| Description: | Get information on any SpaceX flight in history!              |
+|-------------:|:--------------------------------------------------------------|
+|        Type: | Coding Challenge / For Fun                                    |
+|   Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)        |
+|      GitHub: | [patrickclery/spacex](https://github.com/patrickclery/spacex) |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                   |
+|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg)        |
 
 # HOW TO CONTACT ME
 
