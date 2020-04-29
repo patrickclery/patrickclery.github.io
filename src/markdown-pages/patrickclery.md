@@ -10,13 +10,13 @@ add an experienced developer to your team -- *I can do it*.
 
 # PROFESSIONAL EXPERIENCE (FREELANCE)
 
-| Skills Summary                                     |
-|:---------------------------------------------------|
-| :martial_arts_uniform: Ruby on Rails Ninja         |
-| :male_detective: PostgreSQL Database Detective     |
-| :man_factory_worker:  React.js Experience Engineer |
-| :basecamp: Agile Design Advocate                   |
-| :whale2: Docker Boat Captain                       |
+|     Skills Summary     |                               |
+|:----------------------:|:------------------------------|
+| :martial_arts_uniform: |           Ruby on Rails Ninja |
+|    :male_detective:    | PostgreSQL Database Detective |
+|  :man_factory_worker:  |  React.js Experience Engineer |
+|       :basecamp:       |         Agile Design Advocate |
+|        :whale2:        |           Docker Boat Captain |
 
 ### Freelance Web Development (2007 - Present)
 
@@ -103,13 +103,13 @@ add an experienced developer to your team -- *I can do it*.
 - ***Delivered live presentations*** to development team when adding new
   features.
 
-# CONTACT
+# HOW TO CONTACT ME
 
-| Contact               |                                      |
-|:----------------------|:-------------------------------------|
-| :email:               | patrick.clery@gmail.com              |
-| :phone:               | 778-990-9803                         |
+| Contact Methods       |                                      |
+|:---------------------:|:-------------------------------------|
+|        :email:        | patrick.clery@gmail.com              |
+|        :phone:        | 778-990-9803                         |
 | :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
-| :briefcase:           | https://patrickclery.com/            |
-| :octocat:             | https://github.com/patrickclery      |
-| :bird:                | https://twitter.com/patrickclery     |
+|      :briefcase:      | https://patrickclery.com/            |
+|       :octocat:       | https://github.com/patrickclery      |
+|        :bird:         | https://twitter.com/patrickclery     |
