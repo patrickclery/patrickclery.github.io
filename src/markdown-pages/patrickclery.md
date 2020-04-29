@@ -7,8 +7,6 @@ Ruby on Rails Developer
 > looking to start a new project, add features to an existing one, or add
 > an experienced developer to your team -- *I can do it*.
 
-# PROFESSIONAL EXPERIENCE (FREELANCE WORK)
-
 |                        | Skills Summary                |
 |:----------------------:|:------------------------------|
 | :martial_arts_uniform: | Ruby on Rails Ninja           |
@@ -16,6 +14,8 @@ Ruby on Rails Developer
 |  :man_factory_worker:  | React.js Experience Engineer  |
 |       :basecamp:       | Agile Design Advocate         |
 |        :whale2:        | Docker Boat Captain           |
+
+# PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 
 <div style="page-break-after: always"></div>
 
