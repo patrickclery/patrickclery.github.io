@@ -105,7 +105,7 @@ add an experienced developer to your team -- *I can do it*.
 
 # PORTFOLIO
 
-|   Project #1 | "Amazon ASIN Lookup"                                                |
+|   Project #1 | :shopping_cart: "Amazon ASIN Lookup"                                               |
 |-------------:|:--------------------------------------------------------------------|
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API   |
 |  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker.jpg) |
@@ -114,9 +114,20 @@ add an experienced developer to your team -- *I can do it*.
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                         |
 
 
-### *"Amazon Asin Checker"*
-
-
+|     Project #2 | :rocket: *"SpaceX Flights"*                              |
+|---------------:|:---------------------------------------------------------|
+|   Description: | Get information on any SpaceX flight in history!         |
+|    Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)        |
+|     Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)   |
+|        GitHub: | https://github.com/patrickclery/spacex                   |
+|    Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker              |
+|     Project #2 | :rocket: *"SpaceX Flights"*                              |
+| -------------: | :------------------------------------------------------- |
+|   Description: | Get information on any SpaceX flight in history!         |
+|    Screenshot: | ![SpaceX Flights](../images/portfolio/spacex.jpg)        |
+|     Live Demo: | [Open on Heroku](https://spacexflights.herokuapp.com/)   |
+|        GitHub: | https://github.com/patrickclery/spacex                   |
+|    Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker              |
 
 # HOW TO CONTACT ME
 
