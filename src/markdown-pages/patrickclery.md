@@ -105,10 +105,10 @@ add an experienced developer to your team -- *I can do it*.
 
 # CONTACT
 
-| Contact   |                                      |
-|:----------|:-------------------------------------|
-| Email     | patrick.clery@gmail.com              |
-| Phone     | 778-990-9803                         |
-| LinkedIn  | https://linkedin.com/in/patrickclery |
-| GitHub    | https://github.com/patrickclery      |
-| Portfolio | https://patrickclery.com/            |
+| Contact               |                                      |
+|:----------------------|:-------------------------------------|
+| :email:               | patrick.clery@gmail.com              |
+| :phone:               | 778-990-9803                         |
+| :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
+| :briefcase:           | https://patrickclery.com/            |
+| :octocat:             | https://github.com/patrickclery      |
