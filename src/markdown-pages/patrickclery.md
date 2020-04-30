@@ -6,7 +6,7 @@ looking to start a new project, add features to an existing one, or add
 an experienced developer to your team -- *I can do it*.
 ------------------------------------------------------------------------
 
-|     Skills Summary     | ![I Love Internet](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/bitmoji/i-love-internet.png) |
+|     Skills Summary     | ![I Love Internet](https://git.io/JfOTA)    |
 |:----------------------:|:--------------------------------------------|
 | :martial_arts_uniform: | **Ruby on Rails** Ninja                     |
 |   :man_technologist:   | **PostgreSQL** Wizard                       |
@@ -120,13 +120,13 @@ an experienced developer to your team -- *I can do it*.
 
 ### Example #1: :shopping_cart: *Amazon ASIN Lookup*
 
-| | ![Amazon ASIN Checker](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/amazon-asin-checker-400.jpeg) |
-|-------------:|:-------------------------------------------------------------------------|
-| Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
-|        Type: | Coding Challenge / For Fun                                               |
-|   Live Demo: | https://amazon-asin-checker.herokuapp.com/                               |
-|      GitHub: | https://github.com/patrickclery/amazon-asin                              |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
+|              | ![Amazon ASIN Checker](https://git.io/JfOTx)               |
+|-------------:|:-----------------------------------------------------------|
+| Description: | Search Amazon by Product Number without paying for the API |
+|        Type: | Coding Challenge / For Fun                                 |
+|   Live Demo: | https://amazon-asin-checker.herokuapp.com/                 |
+|      GitHub: | https://github.com/patrickclery/amazon-asin                |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                |
 
 <div style="page-break-after: always"></div>
 
@@ -134,12 +134,12 @@ an experienced developer to your team -- *I can do it*.
 
 ### Example #2: :fish: KnowYour.Fish
 
-| | ![KnowYour.Fish](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/knowyourfish-400.jpeg) |
-|-------------:|:------------------------------------------------------------|
-| Description: | Verified traceability for the seafood supply chain.         |
-|        Type: | Paid Work (Contributor)                                     |
-|        Link: | [KnowYour.Fish](https://knowyour.fish/)                     |
-|  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS                    |
+|              | ![KnowYour.Fish](https://git.io/JfOkv)              |
+|-------------:|:----------------------------------------------------|
+| Description: | Verified traceability for the seafood supply chain. |
+|        Type: | Paid Work (Contributor)                             |
+|        Link: | [KnowYour.Fish](https://knowyour.fish/)             |
+|  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
 
 <div style="page-break-after: always"></div>
 
@@ -147,38 +147,46 @@ an experienced developer to your team -- *I can do it*.
 
 ### Example #3: :rocket: *SpaceX Flights*
 
-| | ![SpaceX Flights](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/spacex-400.jpeg) |
-|-------------:|:-------------------------------------------------------|
-| Description: | Get information on any SpaceX flight in history!       |
-|        Type: | Coding Challenge / For Fun                             |
-|   Live Demo: | https://spacexflights.herokuapp.com/                   |
-|      GitHub: | https://github.com/patrickclery/spacex                 |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
+|              | ![SpaceX Flights](https://git.io/JfOkJ)          |
+|-------------:|:-------------------------------------------------|
+| Description: | Get information on any SpaceX flight in history! |
+|        Type: | Coding Challenge / For Fun                       |
+|   Live Demo: | https://spacexflights.herokuapp.com/             |
+|      GitHub: | https://github.com/patrickclery/spacex           |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker      |
 
 <div style="page-break-after: always"></div>
 
 
 
-ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
-=========================================
+OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
+===============================================
+
+![Achievements Banner](https://git.io/JfOkT)
+
+###  University of Alberta
+
+|              | ![University of Alberta](https://git.io/JfOkL) |
+|-------------:|:-----------------------------------------------|
+| Achievement: | Computing Sciences Program 2007                |
 
 ###  HackerRank.com
 
-| | ![HackerRank](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/achievements/hackerrank.jpg) |
-|-------------:|:-------------------------------------------------------|
-| Description: | Get information on any SpaceX flight in history!       |
-|        Type: | Coding Challenge / For Fun                             |
-|   Live Demo: | https://spacexflights.herokuapp.com/                   |
-|      GitHub: | https://github.com/patrickclery/spacex                 |
-|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
+|              | ![HackerRank.com](https://git.io/JfOkq)    |
+|-------------:|:-------------------------------------------|
+| Description: | Computer Science challenges and hackathons |
+| Achievement: | Achieved 5 stars in Ruby & SQL categories  |
+|        Link: | https://www.hackerrank.com/patrickclery    |
+
+<div style="page-break-after: always"></div>
 
 
 
 # HOW TO CONTACT ME
 
-![Let's Taco Bout It](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/bitmoji/lets-taco-bout-it.png)
+![Let's Taco Bout It](https://git.io/JfOkY)
 
-|    Contact Methods    |                                      |
+|                       | Contact Information                  |
 |:---------------------:|:-------------------------------------|
 |        :email:        | patrick.clery@gmail.com              |
 |        :phone:        | +1.778.990.9803                      |
