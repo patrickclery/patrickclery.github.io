@@ -163,7 +163,7 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 
 ### University of Alberta
 
-|              | ![University of Alberta](https://git.io/JfOkL) |
+|              | ![University of Alberta](https://git.io/JfOtc) |
 |-------------:|:-----------------------------------------------|
 | Achievement: | Computing Sciences Program 2007                |
 
