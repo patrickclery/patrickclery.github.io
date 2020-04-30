@@ -159,6 +159,21 @@ an experienced developer to your team -- *I can do it*.
 
 
 
+ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
+=========================================
+
+###  HackerRank.com
+
+| | ![HackerRank](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/achievements/hackerrank.jpg) |
+|-------------:|:-------------------------------------------------------|
+| Description: | Get information on any SpaceX flight in history!       |
+|        Type: | Coding Challenge / For Fun                             |
+|   Live Demo: | https://spacexflights.herokuapp.com/                   |
+|      GitHub: | https://github.com/patrickclery/spacex                 |
+|  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
+
+
+
 # HOW TO CONTACT ME
 
 ![Let's Taco Bout It](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/bitmoji/lets-taco-bout-it.png)
