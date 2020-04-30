@@ -80,6 +80,8 @@ it*.
 
 ## PROFESSIONAL EXPERIENCE (ON TEAMS)
 
+![Teams Banner](https://git.io/JfOk2)
+
 ### Vericatch.com (On-Site - Vancouver, BC)
 
 #### Ruby on Rails Developer (March 2018 - November 2018)
@@ -158,8 +160,6 @@ it*.
 
 OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 ===============================================
-
-![Achievements Banner](https://git.io/JfOkT)
 
 ### University of Alberta
 
