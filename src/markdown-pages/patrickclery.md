@@ -132,11 +132,6 @@ an experienced developer to your team -- *I can do it*.
 
 
 
-# EXAMPLES OF MY WORK
-
-> Here's just a few projects I'm proud of.
-> (Click the live link to see them in action!)
-
 ### Example #2: :fish: KnowYour.Fish
 
 | | ![KnowYour.Fish](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/knowyourfish-400.jpeg) |
@@ -149,11 +144,6 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 
-
-# EXAMPLES OF MY WORK
-
-> Here's just a few projects I'm proud of.
-> (Click the live link to see them in action!)
 
 ### Example #3: :rocket: *SpaceX Flights*
 
