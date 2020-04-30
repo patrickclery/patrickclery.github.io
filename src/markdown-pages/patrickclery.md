@@ -118,7 +118,7 @@ an experienced developer to your team -- *I can do it*.
 > Here's just a few projects I'm proud of.
 > (Click the live link to see them in action!)
 
-### :shopping_cart: *Amazon ASIN Lookup*
+### Example #1: :shopping_cart: *Amazon ASIN Lookup*
 
 |              | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
 |-------------:|:-------------------------------------------------------------------------|
@@ -132,7 +132,12 @@ an experienced developer to your team -- *I can do it*.
 
 
 
-### :fish: KnowYour.Fish
+# EXAMPLES OF MY WORK
+
+> Here's just a few projects I'm proud of.
+> (Click the live link to see them in action!)
+
+### Example #2: :fish: KnowYour.Fish
 
 |              | ![KnowYour.Fish](../images/portfolio/knowyourfish-400.jpeg) |
 |-------------:|:------------------------------------------------------------|
@@ -145,7 +150,12 @@ an experienced developer to your team -- *I can do it*.
 
 
 
-### :rocket: *SpaceX Flights*
+# EXAMPLES OF MY WORK
+
+> Here's just a few projects I'm proud of.
+> (Click the live link to see them in action!)
+
+### Example #3: :rocket: *SpaceX Flights*
 
 |              | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
 |-------------:|:-------------------------------------------------------|
