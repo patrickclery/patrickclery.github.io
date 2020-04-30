@@ -1,21 +1,23 @@
 PATRICK CLERY - Ruby on Rails Developer
 =======================================
-I'm a freelance web developer of over twenty years who builds
-single-page apps using **Ruby on Rails & React.JS**. Whether you're
-looking to start a new project, add features to an existing one, or add
-an experienced developer to your team -- *I can do it*.
-------------------------------------------------------------------------
 
-|     Skills Summary     | ![I Love Internet](https://git.io/JfOTA)    |
-|:----------------------:|:--------------------------------------------|
-| :martial_arts_uniform: | **Ruby on Rails** Ninja                     |
-|   :man_technologist:   | **PostgreSQL** Wizard                       |
-|    :man_astronaut:     | **React.js** Rocket Scientist               |
-|       :basecamp:       | **Agile Design** Advocate                   |
-|        :whale2:        | **Docker** Ship Captain                     |
+I'm a freelance web developer of over twenty years who builds
+single-page apps using **Ruby on Rails & React.JS**.
+----------------------------------------------------
+
+Whether you're looking to start a new project, add features to an
+existing one, or add an experienced developer to your team -- *I can do
+it*.
+
+|     Skills Summary     | ![I Love Internet](https://git.io/JfOTA) |
+|:----------------------:|:-----------------------------------------|
+| :martial_arts_uniform: | **Ruby on Rails** Ninja                  |
+|   :man_technologist:   | **PostgreSQL** Wizard                    |
+|    :man_astronaut:     | **React.js** Rocket Scientist            |
+|       :basecamp:       | **Agile Design** Advocate                |
+|        :whale2:        | **Docker** Ship Captain                  |
 
 <div style="page-break-after: always"></div>
-
 
 
 # PROFESSIONAL EXPERIENCE (FREELANCE WORK)
@@ -76,7 +78,6 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 
-
 ## PROFESSIONAL EXPERIENCE (ON TEAMS)
 
 ### Vericatch.com (On-Site - Vancouver, BC)
@@ -112,11 +113,10 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 
-
 # EXAMPLES OF MY WORK
 
-> Here's just a few projects I'm proud of.
-> (Click the live link to see them in action!)
+> Here's just a few projects I'm proud of. (Click the live link to see
+> them in action!)
 
 ### Example #1: :shopping_cart: *Amazon ASIN Lookup*
 
@@ -131,7 +131,6 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 
-
 ### Example #2: :fish: KnowYour.Fish
 
 |              | ![KnowYour.Fish](https://git.io/JfOkv)              |
@@ -142,7 +141,6 @@ an experienced developer to your team -- *I can do it*.
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
 
 <div style="page-break-after: always"></div>
-
 
 
 ### Example #3: :rocket: *SpaceX Flights*
@@ -158,19 +156,18 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 
-
 OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 ===============================================
 
 ![Achievements Banner](https://git.io/JfOkT)
 
-###  University of Alberta
+### University of Alberta
 
 |              | ![University of Alberta](https://git.io/JfOkL) |
 |-------------:|:-----------------------------------------------|
 | Achievement: | Computing Sciences Program 2007                |
 
-###  HackerRank.com
+### HackerRank.com
 
 |              | ![HackerRank.com](https://git.io/JfOkq)    |
 |-------------:|:-------------------------------------------|
@@ -179,7 +176,6 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 |        Link: | https://www.hackerrank.com/patrickclery    |
 
 <div style="page-break-after: always"></div>
-
 
 
 # HOW TO CONTACT ME
