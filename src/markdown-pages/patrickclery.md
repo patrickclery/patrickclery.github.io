@@ -6,15 +6,15 @@ looking to start a new project, add features to an existing one, or add
 an experienced developer to your team -- *I can do it*.
 ------------------------------------------------------------------------
 
-![Cat](../images/love-internet.jpg)
+|     Skills Summary     | ![I Love Internet](../images/bitmoji/i-love-internet.png) |
+|:----------------------:|:--------------------------------------------|
+| :martial_arts_uniform: | **Ruby on Rails** Ninja                     |
+|   :man_technologist:   | **PostgreSQL** Wizard                       |
+|    :man_astronaut:     | **React.js** Rocket Scientist               |
+|       :basecamp:       | **Agile Design** Advocate                   |
+|        :whale2:        | **Docker** Ship Captain                     |
 
-|                        | Skills Summary                |
-|:----------------------:|:------------------------------|
-| :martial_arts_uniform: | Ruby on Rails Ninja           |
-|    :male_detective:    | PostgreSQL Database Detective |
-|  :man_factory_worker:  | React.js Experience Engineer  |
-|       :basecamp:       | Agile Design Advocate         |
-|        :whale2:        | Docker Boat Captain           |
+
 
 <div style="page-break-after: always"></div>
 
@@ -116,6 +116,8 @@ an experienced developer to your team -- *I can do it*.
 
 ### :shopping_cart: *Amazon ASIN Lookup*
 
+![Shopping Cart](../images/bitmoji/shopping-cart.png)
+
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
 |-------------:|:-------------------------------------------------------------------------|
 |        Type: | Coding Challenge / For Fun                                               |
@@ -128,6 +130,8 @@ an experienced developer to your team -- *I can do it*.
 
 ### :fish: KnowYour.Fish
 
+![Fishing](../images/bitmoji/fishing.png)
+
 | Description: | Verified traceability for the seafood supply chain.         |
 |-------------:|:------------------------------------------------------------|
 |        Type: | Paid Work (Contributor)                                     |
@@ -138,6 +142,8 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 ### :rocket: *SpaceX Flights*
+
+![Space Alien](../images/bitmoji/space-alien.png)
 
 | Description: | Get information on any SpaceX flight in history!       |
 |-------------:|:-------------------------------------------------------|
@@ -150,6 +156,8 @@ an experienced developer to your team -- *I can do it*.
 <div style="page-break-after: always"></div>
 
 # HOW TO CONTACT ME
+
+![Let's Taco Bout It](../images/bitmoji/lets-taco-bout-it.png)
 
 |    Contact Methods    |                                      |
 |:---------------------:|:-------------------------------------|
