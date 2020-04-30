@@ -14,9 +14,9 @@ an experienced developer to your team -- *I can do it*.
 |       :basecamp:       | **Agile Design** Advocate                   |
 |        :whale2:        | **Docker** Ship Captain                     |
 
-
-
 <div style="page-break-after: always"></div>
+
+
 
 # PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 
@@ -75,6 +75,8 @@ an experienced developer to your team -- *I can do it*.
 
 <div style="page-break-after: always"></div>
 
+
+
 ## PROFESSIONAL EXPERIENCE (ON TEAMS)
 
 ### Vericatch.com (On-Site - Vancouver, BC)
@@ -109,6 +111,8 @@ an experienced developer to your team -- *I can do it*.
 
 <div style="page-break-after: always"></div>
 
+
+
 # EXAMPLES OF MY WORK
 
 > Here's just a few projects I'm proud of.
@@ -116,44 +120,44 @@ an experienced developer to your team -- *I can do it*.
 
 ### :shopping_cart: *Amazon ASIN Lookup*
 
-![Shopping Cart](../images/bitmoji/shopping-cart.png)
-
-| Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
+|              | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
 |-------------:|:-------------------------------------------------------------------------|
+| Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
 |        Type: | Coding Challenge / For Fun                                               |
 |   Live Demo: | https://amazon-asin-checker.herokuapp.com/                               |
 |      GitHub: | https://github.com/patrickclery/amazon-asin                              |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                              |
-|  Screenshot: | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
 
 <div style="page-break-after: always"></div>
+
+
 
 ### :fish: KnowYour.Fish
 
-![Fishing](../images/bitmoji/fishing.png)
-
-| Description: | Verified traceability for the seafood supply chain.         |
+|              | ![KnowYour.Fish](../images/portfolio/knowyourfish-400.jpeg) |
 |-------------:|:------------------------------------------------------------|
+| Description: | Verified traceability for the seafood supply chain.         |
 |        Type: | Paid Work (Contributor)                                     |
 |        Link: | [KnowYour.Fish](https://knowyour.fish/)                     |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS                    |
-|  Screenshot: | ![KnowYour.Fish](../images/portfolio/knowyourfish-400.jpeg) |
 
 <div style="page-break-after: always"></div>
 
+
+
 ### :rocket: *SpaceX Flights*
 
-![Space Alien](../images/bitmoji/space-alien.png)
-
-| Description: | Get information on any SpaceX flight in history!       |
+|              | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
 |-------------:|:-------------------------------------------------------|
+| Description: | Get information on any SpaceX flight in history!       |
 |        Type: | Coding Challenge / For Fun                             |
 |   Live Demo: | https://spacexflights.herokuapp.com/                   |
 |      GitHub: | https://github.com/patrickclery/spacex                 |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker            |
-|  Screenshot: | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
 
 <div style="page-break-after: always"></div>
+
+
 
 # HOW TO CONTACT ME
 
