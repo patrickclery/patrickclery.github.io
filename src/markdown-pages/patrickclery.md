@@ -6,7 +6,7 @@ looking to start a new project, add features to an existing one, or add
 an experienced developer to your team -- *I can do it*.
 ------------------------------------------------------------------------
 
-|     Skills Summary     | ![I Love Internet](../images/bitmoji/i-love-internet.png) |
+|     Skills Summary     | ![I Love Internet](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/bitmoji/i-love-internet.png) |
 |:----------------------:|:--------------------------------------------|
 | :martial_arts_uniform: | **Ruby on Rails** Ninja                     |
 |   :man_technologist:   | **PostgreSQL** Wizard                       |
@@ -120,7 +120,7 @@ an experienced developer to your team -- *I can do it*.
 
 ### Example #1: :shopping_cart: *Amazon ASIN Lookup*
 
-|              | ![Amazon ASIN Checker](../images/portfolio/amazon-asin-checker-400.jpeg) |
+| | ![Amazon ASIN Checker](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/amazon-asin-checker-400.jpeg) |
 |-------------:|:-------------------------------------------------------------------------|
 | Description: | Search Amazon by Product Number (ASIN) without paying for the API        |
 |        Type: | Coding Challenge / For Fun                                               |
@@ -139,7 +139,7 @@ an experienced developer to your team -- *I can do it*.
 
 ### Example #2: :fish: KnowYour.Fish
 
-|              | ![KnowYour.Fish](../images/portfolio/knowyourfish-400.jpeg) |
+| | ![KnowYour.Fish](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/knowyourfish-400.jpeg) |
 |-------------:|:------------------------------------------------------------|
 | Description: | Verified traceability for the seafood supply chain.         |
 |        Type: | Paid Work (Contributor)                                     |
@@ -157,7 +157,7 @@ an experienced developer to your team -- *I can do it*.
 
 ### Example #3: :rocket: *SpaceX Flights*
 
-|              | ![SpaceX Flights](../images/portfolio/spacex-400.jpeg) |
+| | ![SpaceX Flights](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/portfolio/spacex-400.jpeg) |
 |-------------:|:-------------------------------------------------------|
 | Description: | Get information on any SpaceX flight in history!       |
 |        Type: | Coding Challenge / For Fun                             |
@@ -171,7 +171,7 @@ an experienced developer to your team -- *I can do it*.
 
 # HOW TO CONTACT ME
 
-![Let's Taco Bout It](../images/bitmoji/lets-taco-bout-it.png)
+![Let's Taco Bout It](https://raw.githubusercontent.com/patrickclery/patrickclery.github.io/source/src/images/bitmoji/lets-taco-bout-it.png)
 
 |    Contact Methods    |                                      |
 |:---------------------:|:-------------------------------------|
