@@ -18,7 +18,9 @@ it.
 | Docker Ship Captain       |
 
 
-# PROFESSIONAL EXPERIENCE (FREELANCE WORK)
+----------------------------------------
+PROFESSIONAL EXPERIENCE (FREELANCE WORK)
+========================================
 
 ### Freelance Web Development (2007 - Present)
 
@@ -71,7 +73,9 @@ it.
   Jason Fried, David Heinemeier Hansson, and Basecamp.com.
 
 
-## PROFESSIONAL EXPERIENCE (ON TEAMS)
+----------------------------------
+PROFESSIONAL EXPERIENCE (ON TEAMS)
+==================================
 
 ### Vericatch.com (On-Site - Vancouver, BC)
 
@@ -103,7 +107,9 @@ it.
   features.
 
 
-# EXAMPLES OF MY WORK
+-------------------
+EXAMPLES OF MY WORK
+===================
 
 > Here's just a few projects I'm proud of.
 
@@ -139,6 +145,7 @@ it.
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker      |
 
 
+-----------------------------------------------
 OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 ===============================================
 
@@ -156,8 +163,9 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 | Achievement: | Achieved 5 stars in Ruby & SQL categories  |
 |        Link: | https://www.hackerrank.com/patrickclery    |
 
-
-# HOW TO CONTACT ME
+-----------------
+HOW TO CONTACT ME
+=================
 
 |     | Contact Information                  |
 |:---:|:-------------------------------------|
