@@ -105,8 +105,7 @@ it.
 
 # EXAMPLES OF MY WORK
 
-> Here's just a few projects I'm proud of. (Click the live link to see
-> them in action!)
+> Here's just a few projects I'm proud of.
 
 ### Example #1: Amazon ASIN Lookup
 
