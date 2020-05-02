@@ -18,7 +18,6 @@ it.
 | Docker Ship Captain       |
 
 
-----------------------------------------
 PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 ========================================
 
@@ -73,7 +72,6 @@ PROFESSIONAL EXPERIENCE (FREELANCE WORK)
   Jason Fried, David Heinemeier Hansson, and Basecamp.com.
 
 
-----------------------------------
 PROFESSIONAL EXPERIENCE (ON TEAMS)
 ==================================
 
@@ -107,7 +105,6 @@ PROFESSIONAL EXPERIENCE (ON TEAMS)
   features.
 
 
--------------------
 EXAMPLES OF MY WORK
 ===================
 
@@ -123,7 +120,6 @@ EXAMPLES OF MY WORK
 |      GitHub: | https://github.com/patrickclery/amazon-asin                |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                |
 
-
 ### Example #2: KnowYour.Fish
 
 |              | KnowYour.Fish                                       |
@@ -132,7 +128,6 @@ EXAMPLES OF MY WORK
 |        Type: | Paid Work (Contributor)                             |
 |        Link: | https://knowyour.fish/                              |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
-
 
 ### Example #3: SpaceX Flights
 
@@ -145,7 +140,6 @@ EXAMPLES OF MY WORK
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker      |
 
 
------------------------------------------------
 OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 ===============================================
 
@@ -163,7 +157,7 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 | Achievement: | Achieved 5 stars in Ruby & SQL categories  |
 |        Link: | https://www.hackerrank.com/patrickclery    |
 
------------------
+
 HOW TO CONTACT ME
 =================
 
