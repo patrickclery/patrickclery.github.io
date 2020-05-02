@@ -167,11 +167,11 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 HOW TO CONTACT ME
 =================
 
-|     | Contact Information                  |
-|:---:|:-------------------------------------|
-|     | patrick.clery@gmail.com              |
-|     | +1.778.990.9803                      |
-|     | https://linkedin.com/in/patrickclery |
-|     | https://github.com/patrickclery      |
-|     | https://twitter.com/patrickclery     |
+| Contact Information                  |
+|:-------------------------------------|
+| patrick.clery@gmail.com              |
+| +1.778.990.9803                      |
+| https://linkedin.com/in/patrickclery |
+| https://github.com/patrickclery      |
+| https://twitter.com/patrickclery     |
 
