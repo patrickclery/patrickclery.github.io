@@ -6,18 +6,16 @@ single-page apps using Ruby on Rails & React.JS.
 ----------------------------------------------------
 
 Whether you're looking to start a new project, add features to an
-existing one, or add an experienced developer to your team -- *I can do
-it*.
+existing one, or add an experienced developer to your team -- I can do
+it.
 
-|     Skills Summary     | ![I Love Internet](https://git.io/JfOTA) |
-|:----------------------:|:-----------------------------------------|
-| :martial_arts_uniform: | Ruby on Rails Ninja                  |
-|   :man_technologist:   | PostgreSQL Wizard                    |
-|    :man_astronaut:     | React.js Rocket Scientist            |
-|       :basecamp:       | Agile Design Advocate                |
-|        :whale2:        | Docker Ship Captain                  |
-
-<div style="page-break-after: always"></div>
+| Skills Summary            |
+|:--------------------------|
+| Ruby on Rails Ninja       |
+| PostgreSQL Wizard         |
+| React.js Rocket Scientist |
+| Agile Design Advocate     |
+| Docker Ship Captain       |
 
 
 # PROFESSIONAL EXPERIENCE (FREELANCE WORK)
@@ -75,21 +73,17 @@ it*.
 - Follower of the business & software development practices promoted by
   Jason Fried, David Heinemeier Hansson, and Basecamp.com.
 
-<div style="page-break-after: always"></div>
-
 
 ## PROFESSIONAL EXPERIENCE (ON TEAMS)
-
-![Teams Banner](https://git.io/JfOk2)
 
 ### Vericatch.com (On-Site - Vancouver, BC)
 
 #### Ruby on Rails Developer (March 2018 - November 2018)
 
->*Developed back-end and front-end features for 3 commercial apps that
+>Developed back-end and front-end features for 3 commercial apps that
 >provides services for supply-chain management, fishing industry
 >regulations, and provincial catch reporting (1 app in production for 7
->years, 2 new apps that were developed and sold).*
+>years, 2 new apps that were developed and sold).
 
 - Wrote PostgreSQL queries that power the Supply Chain database,
   often spanning 50+ lines.
@@ -112,17 +106,15 @@ it*.
 - Delivered live presentations to development team when adding new
   features.
 
-<div style="page-break-after: always"></div>
-
 
 # EXAMPLES OF MY WORK
 
 > Here's just a few projects I'm proud of. (Click the live link to see
 > them in action!)
 
-### Example #1: :shopping_cart: *Amazon ASIN Lookup*
+### Example #1: Amazon ASIN Lookup
 
-|              | ![Amazon ASIN Checker](https://git.io/JfOTx)               |
+|              | Amazon ASIN Checker                                        |
 |-------------:|:-----------------------------------------------------------|
 | Description: | Search Amazon by Product Number without paying for the API |
 |        Type: | Coding Challenge / For Fun                                 |
@@ -130,24 +122,20 @@ it*.
 |      GitHub: | https://github.com/patrickclery/amazon-asin                |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                |
 
-<div style="page-break-after: always"></div>
 
+### Example #2: KnowYour.Fish
 
-### Example #2: :fish: KnowYour.Fish
-
-|              | ![KnowYour.Fish](https://git.io/JfOkv)              |
+|              | KnowYour.Fish                                       |
 |-------------:|:----------------------------------------------------|
 | Description: | Verified traceability for the seafood supply chain. |
 |        Type: | Paid Work (Contributor)                             |
-|        Link: | [KnowYour.Fish](https://knowyour.fish/)             |
+|        Link: | https://knowyour.fish/                              |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
 
-<div style="page-break-after: always"></div>
 
+### Example #3: SpaceX Flights
 
-### Example #3: :rocket: *SpaceX Flights*
-
-|              | ![SpaceX Flights](https://git.io/JfOkJ)          |
+|              | SpaceX Flights                                   |
 |-------------:|:-------------------------------------------------|
 | Description: | Get information on any SpaceX flight in history! |
 |        Type: | Coding Challenge / For Fun                       |
@@ -155,38 +143,32 @@ it*.
 |      GitHub: | https://github.com/patrickclery/spacex           |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker      |
 
-<div style="page-break-after: always"></div>
-
 
 OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 ===============================================
 
 ### University of Alberta
 
-|              | ![University of Alberta](https://git.io/JfOtc) |
-|-------------:|:-----------------------------------------------|
-| Achievement: | Computing Sciences Program 2007                |
+|              | University of Alberta           |
+|-------------:|:--------------------------------|
+| Achievement: | Computing Sciences Program 2007 |
 
 ### HackerRank.com
 
-|              | ![HackerRank.com](https://git.io/JfOkq)    |
+|              | HackerRank.com                             |
 |-------------:|:-------------------------------------------|
 | Description: | Computer Science challenges and hackathons |
 | Achievement: | Achieved 5 stars in Ruby & SQL categories  |
 |        Link: | https://www.hackerrank.com/patrickclery    |
 
-<div style="page-break-after: always"></div>
-
 
 # HOW TO CONTACT ME
 
-![Let's Taco Bout It](https://git.io/JfOkY)
-
 |                       | Contact Information                  |
 |:---------------------:|:-------------------------------------|
-|        :email:        | patrick.clery@gmail.com              |
-|        :phone:        | +1.778.990.9803                      |
-| :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
-|       :octocat:       | https://github.com/patrickclery      |
-|        :bird:         | https://twitter.com/patrickclery     |
+|               | patrick.clery@gmail.com              |
+|               | +1.778.990.9803                      |
+| | https://linkedin.com/in/patrickclery |
+|             | https://github.com/patrickclery      |
+|                | https://twitter.com/patrickclery     |
 
