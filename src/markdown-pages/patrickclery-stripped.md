@@ -3,8 +3,6 @@
 I'm a freelance web developer of over twenty years who builds
 single-page apps using Ruby on Rails & React.JS.
 
-### single-page apps using Ruby on Rails & React.JS.
-
 Whether you're looking to start a new project, add features to an
 existing one, or add an experienced developer to your team -- I can do
 it.
@@ -125,7 +123,7 @@ it.
 |-------------:|:----------------------------------------------------|
 | Description: | Verified traceability for the seafood supply chain. |
 |        Type: | Paid Work (Contributor)                             |
-|        Link: | https://KnowYour.Fish/                              |
+|        Link: | https://knowyour.fish/                              |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
 
 

@@ -9,13 +9,13 @@ Whether you're looking to start a new project, add features to an
 existing one, or add an experienced developer to your team -- *I can do
 it*.
 
-|     Skills Summary     | ![I Love Internet](https://git.io/JfOTA) |
+|     Skills Summary     | ![](https://git.io/JfOTA)                |
 |:----------------------:|:-----------------------------------------|
 | :martial_arts_uniform: | **Ruby on Rails** Ninja                  |
 |   :man_technologist:   | **PostgreSQL** Wizard                    |
 |    :man_astronaut:     | **React.js** Rocket Scientist            |
-|       :basecamp:       | **Agile Design** Advocate                |
-|        :whale2:        | **Docker** Ship Captain                  |
+|       :camping:        | **Agile Design** Advocate                |
+|        :whale:         | **Docker** Ship Captain                  |
 
 <div style="page-break-after: always"></div>
 
@@ -80,7 +80,7 @@ it*.
 
 ## PROFESSIONAL EXPERIENCE (ON TEAMS)
 
-![Teams Banner](https://git.io/JfOk2)
+![](https://git.io/JfOk2)
 
 ### Vericatch.com (On-Site - Vancouver, BC)
 
@@ -139,7 +139,7 @@ it*.
 |-------------:|:----------------------------------------------------|
 | Description: | Verified traceability for the seafood supply chain. |
 |        Type: | Paid Work (Contributor)                             |
-|        Link: | [KnowYour.Fish](https://knowyour.fish/)             |
+|        Link: | https://knowyour.fish/                              |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
 
 <div style="page-break-after: always"></div>
@@ -180,13 +180,11 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 
 # HOW TO CONTACT ME
 
-![Let's Taco Bout It](https://git.io/JfOkY)
-
-|                       | Contact Information                  |
-|:---------------------:|:-------------------------------------|
-|        :email:        | patrick.clery@gmail.com              |
-|        :phone:        | +1.778.990.9803                      |
-| :busts_in_silhouette: | https://linkedin.com/in/patrickclery |
-|       :octocat:       | https://github.com/patrickclery      |
-|        :bird:         | https://twitter.com/patrickclery     |
+|                       | ![Contact Information](https://git.io/JfOkY) |
+|:---------------------:|:---------------------------------------------|
+|        :email:        | patrick.clery@gmail.com                      |
+|        :phone:        | +1.778.990.9803                              |
+| :busts_in_silhouette: | https://linkedin.com/in/patrickclery         |
+|       :octopus:       | https://github.com/patrickclery              |
+|        :bird:         | https://twitter.com/patrickclery             |
 

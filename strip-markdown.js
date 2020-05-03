@@ -8,12 +8,13 @@ const twemoji = require("remark-twemoji");
 
 // Options
 const itemsToKeep = [
+  'blockquote',
+  'heading',
+  'horizontalRule',
   'list',
   'listItem',
   'table',
-  'tableCell',
-  'blockquote',
-  'heading'
+  'tableCell'
 ]
 const inputFile = `${__dirname}/src/markdown-pages/patrickclery.md`
 const outputFile = `${__dirname}/src/markdown-pages/patrickclery-stripped.md`
@@ -31,17 +32,15 @@ fs.readFile(inputFile, (err, data) => {
 
       // Remove escaped HTML ent
       let newOutput = String(output).replace(/&#x3A;/g, ':');
-      newOutput = newOutput.replace(/:[a-z_]+:/gi, '');
-      // Remove escaped HTML ent
       // Remove emojis
-
+      newOutput = newOutput.replace(/:[a-z_]+:/gi, '');
 
       // Overwrite the contents of the old file
       fs.writeFile(outputFile, newOutput, function (err) {
         if (err) return console.log(err);
       })
 
-      console.log(newOutput);
+      console.log(`\n\n>>>> Stripped ${inputFile} > ${outputFile}\n\n`);
     })
 });
 
