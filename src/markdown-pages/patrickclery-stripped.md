@@ -1,9 +1,9 @@
-PATRICK CLERY - Ruby on Rails Developer
-=======================================
+# PATRICK CLERY - Ruby on Rails Developer
 
 I'm a freelance web developer of over twenty years who builds
 single-page apps using Ruby on Rails & React.JS.
-------------------------------------------------
+
+### single-page apps using Ruby on Rails & React.JS.
 
 Whether you're looking to start a new project, add features to an
 existing one, or add an experienced developer to your team -- I can do
@@ -18,12 +18,11 @@ it.
 | Docker Ship Captain       |
 
 
-PROFESSIONAL EXPERIENCE (FREELANCE WORK)
-========================================
+## PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 
-### Freelance Web Development (2007 - Present)
+#### Freelance Web Development (2007 - Present)
 
-#### Web Application Development with Ruby on Rails
+##### Web Application Development with Ruby on Rails
 
 - RESTful or GraphQL API Design that is compliant to Google's JSON:API
   standards.
@@ -36,7 +35,7 @@ PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 - User Authentication & Access Restriction: OAuth, Devise with Warden or
   Pundit, 2-Factor Authentication with Twilio.
 
-#### UI/UX Development with React.JS
+##### UI/UX Development with React.JS
 
 - Creating Single-Page Applications with React Router that deliver a
   modern user experience.
@@ -47,7 +46,7 @@ PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 - Configuring apps to easily drop-in new CSS and JavaScript files with
   Webpack, Babel, and SASS.
 
-#### Deployment, Version Control, and DevOps
+##### Deployment, Version Control, and DevOps
 
 - Deploying to Heroku for production, developers, and testing stages.
 - Configuring Docker containers, images, and swarms using docker-compose
@@ -59,7 +58,7 @@ PROFESSIONAL EXPERIENCE (FREELANCE WORK)
 - 10 years experience with Linux/Unix operations: shell scripting, key
   management, networking, package management.
 
-#### Workflows & Methodologies
+##### Workflows & Methodologies
 
 - Using GitHub Projects to implement Agile Design and SCRUM practices.
 - Test-Driven Development with unit and integration tests using RSpec &
@@ -72,17 +71,16 @@ PROFESSIONAL EXPERIENCE (FREELANCE WORK)
   Jason Fried, David Heinemeier Hansson, and Basecamp.com.
 
 
-PROFESSIONAL EXPERIENCE (ON TEAMS)
-==================================
+### PROFESSIONAL EXPERIENCE (ON TEAMS)
 
-### Vericatch.com (On-Site - Vancouver, BC)
+#### Vericatch.com (On-Site - Vancouver, BC)
 
-#### Ruby on Rails Developer (March 2018 - November 2018)
+##### Ruby on Rails Developer (March 2018 - November 2018)
 
->Developed back-end and front-end features for 3 commercial apps that
->provides services for supply-chain management, fishing industry
->regulations, and provincial catch reporting (1 app in production for 7
->years, 2 new apps that were developed and sold).
+> Developed back-end and front-end features for 3 commercial apps that
+> provides services for supply-chain management, fishing industry
+> regulations, and provincial catch reporting (1 app in production for 7
+> years, 2 new apps that were developed and sold).
 
 - Wrote PostgreSQL queries that power the Supply Chain database, often
   spanning 50+ lines.
@@ -105,12 +103,12 @@ PROFESSIONAL EXPERIENCE (ON TEAMS)
   features.
 
 
-EXAMPLES OF MY WORK
-===================
+## EXAMPLES OF MY WORK
 
-> Here's just a few projects I'm proud of.
+> Here's just a few projects I'm proud of. (Click the live link to see
+> them in action!)
 
-### Example #1: Amazon ASIN Lookup
+#### Example #1:  Amazon ASIN Lookup
 
 |              | Amazon ASIN Checker                                        |
 |-------------:|:-----------------------------------------------------------|
@@ -120,16 +118,18 @@ EXAMPLES OF MY WORK
 |      GitHub: | https://github.com/patrickclery/amazon-asin                |
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker                |
 
-### Example #2: KnowYour.Fish
+
+#### Example #2:  KnowYour.Fish
 
 |              | KnowYour.Fish                                       |
 |-------------:|:----------------------------------------------------|
 | Description: | Verified traceability for the seafood supply chain. |
 |        Type: | Paid Work (Contributor)                             |
-|        Link: | https://knowyour.fish/                              |
+|        Link: | https://KnowYour.Fish/                              |
 |  Tech Stack: | Ruby on Rails, PostgreSQL, Bootstrap CSS            |
 
-### Example #3: SpaceX Flights
+
+#### Example #3:  SpaceX Flights
 
 |              | SpaceX Flights                                   |
 |-------------:|:-------------------------------------------------|
@@ -140,16 +140,15 @@ EXAMPLES OF MY WORK
 |  Tech Stack: | Ruby on Rails, React.js, PostgreSQL, Docker      |
 
 
-OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
-===============================================
+## OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 
-### University of Alberta
+#### University of Alberta
 
 |              | University of Alberta           |
 |-------------:|:--------------------------------|
 | Achievement: | Computing Sciences Program 2007 |
 
-### HackerRank.com
+#### HackerRank.com
 
 |              | HackerRank.com                             |
 |-------------:|:-------------------------------------------|
@@ -158,8 +157,7 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 |        Link: | https://www.hackerrank.com/patrickclery    |
 
 
-HOW TO CONTACT ME
-=================
+## HOW TO CONTACT ME
 
 | Contact Information                  |
 |:-------------------------------------|

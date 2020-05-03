@@ -19,7 +19,14 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "serve": "^11.3.0"
+    "remark": "^12.0.0",
+    "remark-emoji": "^2.1.0",
+    "remark-gemoji-to-emoji": "^1.1.0",
+    "remark-normalize-headings": "^2.0.0",
+    "remark-twemoji": "^0.1.1",
+    "serve": "^11.3.0",
+    "strip-markdown": "^3.1.2",
+    "twemoji": "^12.1.6"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,7 +36,8 @@
     "predeploy": "react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "preproduction": "react-scripts build",
-    "production": "yarn run serve -s build"
+    "production": "yarn run serve -s build",
+    "strip": "node strip-markdown.js"
   },
   "eslintConfig": {
     "extends": "react-app"
