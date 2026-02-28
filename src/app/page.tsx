@@ -115,17 +115,17 @@ export default function HomePage() {
               <span style={{ color: '#585b70' }}>— gig in action —</span>
             </div>
             <div className="px-3 pb-3 space-y-1">
-              <div><span style={{ color: '#585b70' }}>$ </span><span style={{ color: '#00ff41' }}>gig i</span></div>
+              <div><span style={{ color: '#585b70' }}>$ </span><span className="text-accent">gig i</span></div>
               <div className="pl-2" style={{ color: '#585b70' }}>
-                git update-index --assume-unchanged config/database.yml<br />
-                git update-index --assume-unchanged .env.local
+                <div>git update-index --assume-unchanged config/database.yml</div>
+                <div>git update-index --assume-unchanged .env.local</div>
               </div>
-              <div><span style={{ color: '#585b70' }}>$ </span><span style={{ color: '#00ff41' }}>gig</span></div>
+              <div><span style={{ color: '#585b70' }}>$ </span><span className="text-accent">gig</span></div>
               <div className="pl-2">
                 <div><span style={{ color: '#cdd6f4' }}>[ignored]  config/database.yml</span></div>
                 <div><span style={{ color: '#cdd6f4' }}>[ignored]  .env.local</span></div>
               </div>
-              <div><span style={{ color: '#585b70' }}>$ </span><span style={{ color: '#00ff41' }}>brew install patrickclery/tap/gig</span></div>
+              <div><span style={{ color: '#585b70' }}>$ </span><span className="text-accent">brew install patrickclery/tap/gig</span></div>
             </div>
           </div>
         </div>
