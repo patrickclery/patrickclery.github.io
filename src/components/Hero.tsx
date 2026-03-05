@@ -11,10 +11,9 @@ export function Hero() {
           I write the rules. Claude writes the code.
         </p>
         <p className="mt-6 text-lg text-[var(--color-text-muted)] max-w-2xl mx-auto leading-relaxed">
-          Full-stack engineer since 2004. Two decades of shipping products at
-          startups — Ruby on Rails, React, PostgreSQL, TypeScript. Now
-          pioneering AI-assisted development while staying sharp with hands-on
-          code.
+          Been building for the web since Rails was in beta and PostgreSQL
+          was the underdog. Twenty years of startups later, I build with
+          Claude. Same standards, ten times the output.
         </p>
         <nav className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <a
