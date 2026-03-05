@@ -9,15 +9,17 @@ const projects = [
     url: "https://github.com/patrickclery/ruly",
     highlight: "Vibe Coding Infrastructure",
     icon: Terminal,
+    preview: null,
   },
   {
     name: "awesomer",
     description:
-      "Awesome lists sorted by stars and updated daily. Automated curation of the best open-source projects across the ecosystem.",
+      "Trending open-source tools from curated awesome lists — ranked by real GitHub stars. Updated daily.",
     tech: ["HTML", "Automation", "Open Source"],
-    url: "https://github.com/patrickclery/awesomer",
+    url: "https://patrickclery.com/awesomer/",
     highlight: "Open Source Curation",
     icon: BookOpen,
+    preview: "/images/awesomer-preview.png",
   },
 ];
 
@@ -41,32 +43,44 @@ export function Projects() {
                 href={project.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group cursor-pointer rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] p-6 transition-colors duration-200 hover:border-[var(--color-accent)]"
+                className="group cursor-pointer rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden transition-colors duration-200 hover:border-[var(--color-accent)]"
               >
-                <div className="flex items-start justify-between">
-                  <div className="flex items-center gap-3">
-                    <Icon className="w-5 h-5 text-[var(--color-accent)]" />
-                    <h3 className="font-[family-name:var(--font-archivo)] text-xl font-bold font-mono text-[var(--color-text)]">
-                      {project.name}
-                    </h3>
+                {project.preview && (
+                  <div className="relative w-full aspect-[16/9] overflow-hidden border-b border-[var(--color-border)]">
+                    <img
+                      src={project.preview}
+                      alt={`${project.name} preview`}
+                      className="w-full h-full object-cover object-top transition-transform duration-300 group-hover:scale-[1.02]"
+                      loading="lazy"
+                    />
                   </div>
-                  <ExternalLink className="w-4 h-4 text-[var(--color-text-muted)] opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
-                </div>
-                <span className="mt-2 inline-block text-xs font-semibold uppercase tracking-wider text-[var(--color-accent-warm)]">
-                  {project.highlight}
-                </span>
-                <p className="mt-3 text-[var(--color-text-muted)] leading-relaxed">
-                  {project.description}
-                </p>
-                <div className="mt-4 flex flex-wrap gap-2">
-                  {project.tech.map((t) => (
-                    <span
-                      key={t}
-                      className="text-xs font-mono px-2 py-1 rounded bg-[var(--color-bg)] text-[var(--color-text-muted)] border border-[var(--color-border)]"
-                    >
-                      {t}
-                    </span>
-                  ))}
+                )}
+                <div className="p-6">
+                  <div className="flex items-start justify-between">
+                    <div className="flex items-center gap-3">
+                      <Icon className="w-5 h-5 text-[var(--color-accent)]" />
+                      <h3 className="font-[family-name:var(--font-archivo)] text-xl font-bold font-mono text-[var(--color-text)]">
+                        {project.name}
+                      </h3>
+                    </div>
+                    <ExternalLink className="w-4 h-4 text-[var(--color-text-muted)] opacity-0 group-hover:opacity-100 transition-opacity duration-200" />
+                  </div>
+                  <span className="mt-2 inline-block text-xs font-semibold uppercase tracking-wider text-[var(--color-accent-warm)]">
+                    {project.highlight}
+                  </span>
+                  <p className="mt-3 text-[var(--color-text-muted)] leading-relaxed">
+                    {project.description}
+                  </p>
+                  <div className="mt-4 flex flex-wrap gap-2">
+                    {project.tech.map((t) => (
+                      <span
+                        key={t}
+                        className="text-xs font-mono px-2 py-1 rounded bg-[var(--color-bg)] text-[var(--color-text-muted)] border border-[var(--color-border)]"
+                      >
+                        {t}
+                      </span>
+                    ))}
+                  </div>
                 </div>
               </a>
             );
