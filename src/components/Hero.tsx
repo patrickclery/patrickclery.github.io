@@ -8,7 +8,7 @@ export function Hero() {
           Patrick Clery
         </h1>
         <p className="mt-4 text-xl text-[var(--color-accent)] font-mono">
-          I inspire Claude to write code.
+          I write the rules. Claude writes the code.
         </p>
         <p className="mt-6 text-lg text-[var(--color-text-muted)] max-w-2xl mx-auto leading-relaxed">
           Full-stack engineer since 2004. Two decades of shipping products at
