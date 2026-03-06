@@ -25,7 +25,7 @@ const jobs = [
       "Integrated 15 payment gateways (Stripe, Square, Moneris, etc.)",
       "Presented 50+ live coding demos that became the engineering handbook",
     ],
-    preview: null,
+    preview: "/images/lexop-preview.png",
   },
   {
     company: "Vericatch",
