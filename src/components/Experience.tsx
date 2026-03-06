@@ -9,6 +9,7 @@ const jobs = [
     description:
       "Workforce management platform using AI and IoT to remove complexity from scheduling and compliance.",
     highlights: [],
+    preview: "/images/workaxle-preview.png",
   },
   {
     company: "Lexop",
@@ -24,6 +25,7 @@ const jobs = [
       "Integrated 15 payment gateways (Stripe, Square, Moneris, etc.)",
       "Presented 50+ live coding demos that became the engineering handbook",
     ],
+    preview: null,
   },
   {
     company: "Vericatch",
@@ -36,6 +38,7 @@ const jobs = [
       "Modeled fishing industry supply-chain in PostgreSQL",
       "Built real-time SPA with Turbolinks and WebSockets",
     ],
+    preview: "/images/vericatch-preview.png",
   },
   {
     company: "PatrickClery.com",
@@ -47,6 +50,7 @@ const jobs = [
       "Subscription sites with paywalls in Ruby on Rails",
       "Hotel staff HRMS prototype with scheduling system",
     ],
+    preview: null,
   },
   {
     company: "Beano Publishing LLC",
@@ -59,6 +63,7 @@ const jobs = [
       "Used Ruby on Rails when it was beta software",
       "Beta tested official PostgreSQL library in production with 100K+ users",
     ],
+    preview: null,
   },
 ];
 
@@ -90,21 +95,37 @@ export function Experience() {
                 <span>{job.period}</span>
                 <span>{job.location}</span>
               </div>
-              <p className="mt-3 text-[var(--color-text-muted)] leading-relaxed max-w-2xl">
-                {job.description}
-              </p>
-              {job.highlights.length > 0 && (
-                <ul className="mt-3 space-y-1.5">
-                  {job.highlights.map((h) => (
-                    <li
-                      key={h}
-                      className="text-sm text-[var(--color-text-muted)] pl-4 relative before:content-[''] before:absolute before:left-0 before:top-[0.6em] before:w-1.5 before:h-1.5 before:rounded-full before:bg-[var(--color-accent-warm)]"
-                    >
-                      {h}
-                    </li>
-                  ))}
-                </ul>
-              )}
+              <div className={job.preview ? "flex flex-col sm:flex-row gap-6" : ""}>
+                <div className="flex-1">
+                  <p className="mt-3 text-[var(--color-text-muted)] leading-relaxed max-w-2xl">
+                    {job.description}
+                  </p>
+                  {job.highlights.length > 0 && (
+                    <ul className="mt-3 space-y-1.5">
+                      {job.highlights.map((h) => (
+                        <li
+                          key={h}
+                          className="text-sm text-[var(--color-text-muted)] pl-4 relative before:content-[''] before:absolute before:left-0 before:top-[0.6em] before:w-1.5 before:h-1.5 before:rounded-full before:bg-[var(--color-accent-warm)]"
+                        >
+                          {h}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </div>
+                {job.preview && (
+                  <div className="mt-3 sm:mt-0 sm:w-64 flex-shrink-0">
+                    <div className="rounded-lg overflow-hidden border border-[var(--color-border)]">
+                      <img
+                        src={job.preview}
+                        alt={`${job.company} product screenshot`}
+                        className="w-full h-auto object-cover"
+                        loading="lazy"
+                      />
+                    </div>
+                  </div>
+                )}
+              </div>
             </article>
           ))}
         </div>
