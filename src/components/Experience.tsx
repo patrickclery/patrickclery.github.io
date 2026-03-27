@@ -8,7 +8,14 @@ const jobs = [
     location: "Montreal, QC",
     description:
       "Workforce management platform using AI and IoT to remove complexity from scheduling and compliance.",
-    highlights: [],
+    highlights: [
+      "Led application security hardening for SOC 2 compliance (Ruby, TypeScript, Auth0), enforcing modern password policies, brute force protection, and eliminating legacy default credentials",
+      "Designed and built Permit.io ReBAC integration (Ruby, Docker, Sidekiq), mapping 9 domain resources into a relationship-based authorization model with feature-flagged sync pipeline",
+      "Built supervisor delegation backend end-to-end (Ruby, gRPC, Protobuf), delivering CRUD operations, access-level filtering, and delegated-tag support across 8 stories",
+      "Enhanced importLocations GraphQL API across 3 microservices (Ruby, TypeScript, gRPC), adding association support and actionable error messages for enterprise branch imports",
+      "Implemented invitation audit logging (Ruby, PostgreSQL, RSpec), delivering full onboarding traceability with 49 TDD-driven tests across 3 invitation types",
+      "Root-caused flaky CI failures by analyzing 709 runs (Ruby, RSpec, GitHub Actions), identifying materialized view transaction leaks and stabilizing the parallel test pipeline",
+    ],
     preview: "/images/workaxle-preview.png",
   },
   {
