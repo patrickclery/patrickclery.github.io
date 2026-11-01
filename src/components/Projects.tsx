@@ -1,4 +1,4 @@
-import { ExternalLink, Terminal, BookOpen } from "lucide-react";
+import { ExternalLink, Terminal, BookOpen, Disc3 } from "lucide-react";
 
 const projects = [
   {
@@ -20,6 +20,16 @@ const projects = [
     highlight: "Open Source Curation",
     icon: BookOpen,
     preview: "/images/awesomer-preview.png",
+  },
+  {
+    name: "discogs-ai-importer",
+    description:
+      "Turns photos of CD and DVD shelves into Discogs collection entries. Claude reads every spine, crops it for review, and matches it to a Discogs release. Try the live demo.",
+    tech: ["Next.js", "TypeScript", "Claude Vision", "SQLite"],
+    url: "https://patrickclery.com/discogs-ai-importer/",
+    highlight: "AI Vision Tooling",
+    icon: Disc3,
+    preview: "/images/discogs-ai-importer-preview.png",
   },
 ];
 
