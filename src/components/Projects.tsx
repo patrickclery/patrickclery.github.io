@@ -1,4 +1,4 @@
-import { ExternalLink, Terminal, BookOpen, Disc3 } from "lucide-react";
+import { ExternalLink, Terminal, BookOpen, Disc3, Play } from "lucide-react";
 
 const projects = [
   {
@@ -10,6 +10,7 @@ const projects = [
     highlight: "Vibe Coding Infrastructure",
     icon: Terminal,
     preview: null,
+    demo: false,
   },
   {
     name: "awesomer",
@@ -20,16 +21,18 @@ const projects = [
     highlight: "Open Source Curation",
     icon: BookOpen,
     preview: "/images/awesomer-preview.png",
+    demo: false,
   },
   {
     name: "discogs-ai-importer",
     description:
-      "Turns photos of CD and DVD shelves into Discogs collection entries. Claude reads every spine, crops it for review, and matches it to a Discogs release. Try the live demo.",
+      "Turns photos of CD and DVD shelves into Discogs collection entries. Claude reads every spine, crops it for review, and matches it to a Discogs release.",
     tech: ["Next.js", "TypeScript", "Claude Vision", "SQLite"],
     url: "https://patrickclery.com/discogs-ai-importer/",
     highlight: "AI Vision Tooling",
     icon: Disc3,
     preview: "/images/discogs-ai-importer-preview.png",
+    demo: true,
   },
 ];
 
@@ -63,6 +66,12 @@ export function Projects() {
                       className="w-full h-full object-cover object-top transition-transform duration-300 group-hover:scale-[1.02]"
                       loading="lazy"
                     />
+                    {project.demo && (
+                      <span className="absolute top-3 left-3 inline-flex items-center gap-1.5 rounded-full bg-[var(--color-accent)] px-3 py-1 text-xs font-semibold uppercase tracking-wider text-[var(--color-bg)]">
+                        <Play className="w-3 h-3 fill-current" />
+                        Live Demo
+                      </span>
+                    )}
                   </div>
                 )}
                 <div className="p-6">
@@ -91,6 +100,13 @@ export function Projects() {
                       </span>
                     ))}
                   </div>
+                  {project.demo && (
+                    <span className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-[var(--color-accent)]">
+                      <Play className="w-4 h-4 fill-current" />
+                      Try the interactive demo in your browser
+                      <span aria-hidden="true" className="transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
+                    </span>
+                  )}
                 </div>
               </a>
             );
