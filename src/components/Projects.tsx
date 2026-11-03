@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState, type PointerEvent } from "react";
 import { ExternalLink, Terminal, BookOpen, Disc3, Play } from "lucide-react";
 
 const projects = [
@@ -44,8 +44,34 @@ const projects = [
 export function Projects() {
   // Animated previews play only while their card is hovered; swapping src restarts the GIF.
   const [hovered, setHovered] = useState<string | null>(null);
+  const sectionRef = useRef<HTMLElement>(null);
+
+  // Fetch the GIFs into the HTTP cache as the section nears the viewport, so the first hover
+  // starts at the opening frame. Visitors who can't hover or prefer reduced motion never see them.
+  useEffect(() => {
+    const section = sectionRef.current;
+    const canPlay = window.matchMedia("(hover: hover) and (prefers-reduced-motion: no-preference)").matches;
+    if (!section || !canPlay) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry.isIntersecting) return;
+        observer.disconnect();
+        for (const project of projects) {
+          if (project.animated) {
+            fetch(project.animated)
+              .then((response) => response.blob())
+              .catch(() => {});
+          }
+        }
+      },
+      { rootMargin: "200px" },
+    );
+    observer.observe(section);
+    return () => observer.disconnect();
+  }, []);
+
   return (
-    <section id="projects" className="px-6 py-24">
+    <section ref={sectionRef} id="projects" className="px-6 py-24">
       <div className="mx-auto max-w-5xl">
         <h2 className="font-[family-name:var(--font-archivo)] text-3xl font-bold tracking-tight sm:text-4xl">
           Projects
@@ -63,12 +89,16 @@ export function Projects() {
                 href={project.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                onMouseEnter={() => {
-                  if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+                // Touch has no hover: a tap would otherwise leave the card playing after returning from the new tab.
+                onPointerEnter={(event: PointerEvent) => {
+                  if (
+                    event.pointerType !== "touch" &&
+                    !window.matchMedia("(prefers-reduced-motion: reduce)").matches
+                  ) {
                     setHovered(project.name);
                   }
                 }}
-                onMouseLeave={() => setHovered(null)}
+                onPointerLeave={() => setHovered(null)}
                 className="group cursor-pointer rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden transition-colors duration-200 hover:border-[var(--color-accent)]"
               >
                 {project.preview && (

@@ -11,8 +11,8 @@ const expect = (name, got, want) => {
   console.log(`${ok ? 'PASS' : 'FAIL'} ${name}: ${got}`);
   if (!ok) fail.push(name);
 };
-const open = async (browser, reducedMotion) => {
-  const ctx = await browser.newContext({ viewport: { width: 1280, height: 800 }, reducedMotion });
+const open = async (browser, reducedMotion, device = {}) => {
+  const ctx = await browser.newContext({ viewport: { width: 1280, height: 800 }, reducedMotion, ...device });
   const page = await ctx.newPage();
   const gifs = [];
   page.on('response', (r) => { if (r.url().endsWith('.gif')) gifs.push(r); });
@@ -30,6 +30,8 @@ const open = async (browser, reducedMotion) => {
   expect('rest naturalWidth', await s.img.evaluate((e) => e.naturalWidth), 1280);
   expect('no Live Demo badge', await s.card.getByText('Live Demo').count(), 0);
   if (SHOT) await s.img.screenshot({ path: `${SHOT}/card-rest.png` });
+  await s.page.waitForTimeout(1500);
+  expect('gif prefetched before hover', s.gifs.some((r) => r.url().endsWith(GIF)), true);
   await s.card.hover();
   await s.page.waitForTimeout(800);
   expect('hover src', await s.img.getAttribute('src'), GIF);
@@ -60,6 +62,14 @@ const open = async (browser, reducedMotion) => {
   await s.page.waitForTimeout(800);
   expect('reduced-motion src', await s.img.getAttribute('src'), PREVIEW);
   expect('reduced-motion gif requests', s.gifs.length, 0);
+  await s.ctx.close();
+
+  // The card opens a new tab on tap, so src is checked on the original page.
+  s = await open(browser, 'no-preference', { hasTouch: true, isMobile: true });
+  await s.card.tap();
+  await s.page.waitForTimeout(800);
+  expect('touch src after tap', await s.img.getAttribute('src'), PREVIEW);
+  expect('touch gif requests', s.gifs.length, 0);
   await s.ctx.close();
   await browser.close();
   process.exit(fail.length ? 1 : 0);
