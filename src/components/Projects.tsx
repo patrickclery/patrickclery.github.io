@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import { ExternalLink, Terminal, BookOpen, Disc3, Play } from "lucide-react";
 
 const projects = [
@@ -6,11 +9,12 @@ const projects = [
     description:
       "CLI tool for managing AI assistant rules and configurations. Define, organize, and share the rules that shape how AI assistants behave in your codebase.",
     tech: ["Ruby", "CLI", "AI Tooling"],
-    url: "https://github.com/patrickclery/ruly",
+    url: "https://patrickclery.com/ruly/",
     highlight: "Vibe Coding Infrastructure",
     icon: Terminal,
-    preview: null,
-    demo: false,
+    preview: "/images/ruly-preview.png",
+    animated: "/images/ruly-demo.gif",
+    demo: true,
   },
   {
     name: "awesomer",
@@ -37,6 +41,8 @@ const projects = [
 ];
 
 export function Projects() {
+  // Animated previews play only while their card is hovered; swapping src restarts the GIF.
+  const [hovered, setHovered] = useState<string | null>(null);
   return (
     <section id="projects" className="px-6 py-24">
       <div className="mx-auto max-w-5xl">
@@ -56,12 +62,22 @@ export function Projects() {
                 href={project.url}
                 target="_blank"
                 rel="noopener noreferrer"
+                onMouseEnter={() => {
+                  if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+                    setHovered(project.name);
+                  }
+                }}
+                onMouseLeave={() => setHovered(null)}
                 className="group cursor-pointer rounded-xl border border-[var(--color-border)] bg-[var(--color-surface)] overflow-hidden transition-colors duration-200 hover:border-[var(--color-accent)]"
               >
                 {project.preview && (
                   <div className="relative w-full aspect-[16/9] overflow-hidden border-b border-[var(--color-border)]">
                     <img
-                      src={project.preview}
+                      src={
+                        hovered === project.name && "animated" in project
+                          ? project.animated
+                          : project.preview
+                      }
                       alt={`${project.name} preview`}
                       className="w-full h-full object-cover object-top transition-transform duration-300 group-hover:scale-[1.02]"
                       loading="lazy"
