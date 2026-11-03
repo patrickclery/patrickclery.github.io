@@ -25,6 +25,7 @@ const projects = [
     highlight: "Open Source Curation",
     icon: BookOpen,
     preview: "/images/awesomer-preview.png",
+    animated: "/images/awesomer-demo.gif",
     demo: false,
   },
   {
