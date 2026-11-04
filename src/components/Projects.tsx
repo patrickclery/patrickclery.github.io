@@ -27,6 +27,7 @@ const projects = [
     preview: "/images/awesomer-preview.png",
     animated: "/images/awesomer-demo.gif",
     demo: false,
+    live: true,
   },
   {
     name: "discogs-ai-importer",
@@ -117,6 +118,12 @@ export function Projects() {
                       <span className="absolute top-3 left-3 inline-flex items-center gap-1.5 rounded-full bg-[var(--color-accent)] px-3 py-1 text-xs font-semibold uppercase tracking-wider text-[var(--color-bg)]">
                         <Play className="w-3 h-3 fill-current" />
                         Live Demo
+                      </span>
+                    )}
+                    {project.live && (
+                      <span className="absolute top-3 left-3 inline-flex items-center gap-1.5 rounded-full bg-[var(--color-accent-warm)] px-3 py-1 text-xs font-semibold uppercase tracking-wider text-[var(--color-bg)]">
+                        <span aria-hidden="true" className="w-2 h-2 rounded-full bg-current" />
+                        Live
                       </span>
                     )}
                   </div>
