@@ -39,6 +39,13 @@ const open = async (browser, reducedMotion, device = {}) => {
   expect('Live badge matches Live Demo type', await badge.evaluate(pillStyle), await demoBadge.evaluate(pillStyle));
   const bg = (el) => getComputedStyle(el).backgroundColor;
   expect('Live badge colour differs', (await badge.evaluate(bg)) !== (await demoBadge.evaluate(bg)), true);
+  // 12px is Tailwind's bottom-3/right-3 inset, measured inside the thumbnail's border as CSS offsets are.
+  const inset = (el) => {
+    const t = el.offsetParent;
+    return `${t.clientWidth - el.offsetLeft - el.offsetWidth},${t.clientHeight - el.offsetTop - el.offsetHeight}`;
+  };
+  expect('Live badge bottom right', await badge.evaluate(inset), '12,12');
+  expect('Live Demo badge bottom right', await demoBadge.evaluate(inset), '12,12');
   if (SHOT) await s.img.screenshot({ path: `${SHOT}/card-rest.png` });
   await s.page.waitForTimeout(1500);
   expect('gif prefetched before hover', s.gifs.some((r) => r.url().endsWith(GIF)), true);
